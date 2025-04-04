@@ -1,0 +1,175 @@
+2025-03-28 12:02:44,774 - INFO - Refreshing card cache
+2025-03-28 12:02:44,774 - INFO - Scanning directory: /home/socs/assign1/assign2/assign3/bin/cards
+2025-03-28 12:02:44,774 - INFO - All files in directory: ['334.vcf', 'mani.vcf', 'adfasd.vcf', 'hello.vcf']
+2025-03-28 12:02:44,774 - INFO - Found vCard file: 334.vcf
+2025-03-28 12:02:44,774 - INFO - File details for 334.vcf:
+2025-03-28 12:02:44,774 - INFO -   Size: 48 bytes
+2025-03-28 12:02:44,774 - INFO -   Permissions: 0o100644
+2025-03-28 12:02:44,774 - INFO -   Modified: 2025-03-28 11:52:06.378077
+2025-03-28 12:02:44,774 - INFO - Processing card: 334.vcf
+2025-03-28 12:02:44,774 - INFO - File contents of 334.vcf:
+BEGIN:VCARD
+VERSION:4.0
+FN:234234
+END:VCARD
+
+2025-03-28 12:02:44,774 - INFO - Successfully created card for 334.vcf
+2025-03-28 12:02:44,774 - INFO - Successfully validated card for 334.vcf
+2025-03-28 12:02:44,774 - INFO - Successfully cached valid card: 334.vcf
+2025-03-28 12:02:44,774 - INFO - Found vCard file: mani.vcf
+2025-03-28 12:02:44,774 - INFO - File details for mani.vcf:
+2025-03-28 12:02:44,774 - INFO -   Size: 46 bytes
+2025-03-28 12:02:44,774 - INFO -   Permissions: 0o100644
+2025-03-28 12:02:44,774 - INFO -   Modified: 2025-03-28 05:50:47.972643
+2025-03-28 12:02:44,774 - INFO - Processing card: mani.vcf
+2025-03-28 12:02:44,774 - INFO - File contents of mani.vcf:
+BEGIN:VCARD
+VERSION:4.0
+FN:werw
+END:VCARD
+
+2025-03-28 12:02:44,774 - INFO - Successfully created card for mani.vcf
+2025-03-28 12:02:44,774 - INFO - Successfully validated card for mani.vcf
+2025-03-28 12:02:44,774 - INFO - Successfully cached valid card: mani.vcf
+2025-03-28 12:02:44,774 - INFO - Found vCard file: adfasd.vcf
+2025-03-28 12:02:44,774 - INFO - File details for adfasd.vcf:
+2025-03-28 12:02:44,774 - INFO -   Size: 45 bytes
+2025-03-28 12:02:44,774 - INFO -   Permissions: 0o100644
+2025-03-28 12:02:44,774 - INFO -   Modified: 2025-03-28 11:51:51.126148
+2025-03-28 12:02:44,774 - INFO - Processing card: adfasd.vcf
+2025-03-28 12:02:44,774 - INFO - File contents of adfasd.vcf:
+BEGIN:VCARD
+VERSION:4.0
+FN:234
+END:VCARD
+
+2025-03-28 12:02:44,774 - INFO - Successfully created card for adfasd.vcf
+2025-03-28 12:02:44,774 - INFO - Successfully validated card for adfasd.vcf
+2025-03-28 12:02:44,774 - INFO - Successfully cached valid card: adfasd.vcf
+2025-03-28 12:02:44,775 - INFO - Found vCard file: hello.vcf
+2025-03-28 12:02:44,775 - INFO - File details for hello.vcf:
+2025-03-28 12:02:44,775 - INFO -   Size: 47 bytes
+2025-03-28 12:02:44,775 - INFO -   Permissions: 0o100644
+2025-03-28 12:02:44,775 - INFO -   Modified: 2025-03-28 06:12:38.359836
+2025-03-28 12:02:44,775 - INFO - Processing card: hello.vcf
+2025-03-28 12:02:44,775 - INFO - File contents of hello.vcf:
+BEGIN:VCARD
+VERSION:4.0
+FN:its m
+END:VCARD
+
+2025-03-28 12:02:44,775 - INFO - Successfully created card for hello.vcf
+2025-03-28 12:02:44,775 - INFO - Successfully validated card for hello.vcf
+2025-03-28 12:02:44,775 - INFO - Successfully cached valid card: hello.vcf
+2025-03-28 12:02:44,775 - INFO - Current cache state:
+2025-03-28 12:02:44,775 - INFO -   334.vcf: last_modified=2025-03-28 11:52:06.378077
+2025-03-28 12:02:44,775 - INFO -   mani.vcf: last_modified=2025-03-28 05:50:47.972643
+2025-03-28 12:02:44,775 - INFO -   adfasd.vcf: last_modified=2025-03-28 11:51:51.126148
+2025-03-28 12:02:44,775 - INFO -   hello.vcf: last_modified=2025-03-28 06:12:38.359836
+2025-03-28 12:02:44,775 - INFO - Card cache refresh complete. Valid cards: ['334.vcf', 'mani.vcf', 'adfasd.vcf', 'hello.vcf']
+2025-03-28 12:02:44,776 - INFO - Refreshing card cache
+2025-03-28 12:02:44,776 - INFO - Scanning directory: /home/socs/assign1/assign2/assign3/bin/cards
+2025-03-28 12:02:44,776 - INFO - All files in directory: ['334.vcf', 'mani.vcf', 'adfasd.vcf', 'hello.vcf']
+2025-03-28 12:02:44,776 - INFO - Found vCard file: 334.vcf
+2025-03-28 12:02:44,776 - INFO - File details for 334.vcf:
+2025-03-28 12:02:44,776 - INFO -   Size: 48 bytes
+2025-03-28 12:02:44,776 - INFO -   Permissions: 0o100644
+2025-03-28 12:02:44,776 - INFO -   Modified: 2025-03-28 11:52:06.378077
+2025-03-28 12:02:44,776 - INFO - Card 334.vcf unchanged, using cached version
+2025-03-28 12:02:44,776 - INFO - Found vCard file: mani.vcf
+2025-03-28 12:02:44,776 - INFO - File details for mani.vcf:
+2025-03-28 12:02:44,776 - INFO -   Size: 46 bytes
+2025-03-28 12:02:44,776 - INFO -   Permissions: 0o100644
+2025-03-28 12:02:44,776 - INFO -   Modified: 2025-03-28 05:50:47.972643
+2025-03-28 12:02:44,776 - INFO - Card mani.vcf unchanged, using cached version
+2025-03-28 12:02:44,776 - INFO - Found vCard file: adfasd.vcf
+2025-03-28 12:02:44,776 - INFO - File details for adfasd.vcf:
+2025-03-28 12:02:44,776 - INFO -   Size: 45 bytes
+2025-03-28 12:02:44,776 - INFO -   Permissions: 0o100644
+2025-03-28 12:02:44,776 - INFO -   Modified: 2025-03-28 11:51:51.126148
+2025-03-28 12:02:44,776 - INFO - Card adfasd.vcf unchanged, using cached version
+2025-03-28 12:02:44,776 - INFO - Found vCard file: hello.vcf
+2025-03-28 12:02:44,776 - INFO - File details for hello.vcf:
+2025-03-28 12:02:44,776 - INFO -   Size: 47 bytes
+2025-03-28 12:02:44,776 - INFO -   Permissions: 0o100644
+2025-03-28 12:02:44,776 - INFO -   Modified: 2025-03-28 06:12:38.359836
+2025-03-28 12:02:44,776 - INFO - Card hello.vcf unchanged, using cached version
+2025-03-28 12:02:44,776 - INFO - Current cache state:
+2025-03-28 12:02:44,776 - INFO -   334.vcf: last_modified=2025-03-28 11:52:06.378077
+2025-03-28 12:02:44,776 - INFO -   mani.vcf: last_modified=2025-03-28 05:50:47.972643
+2025-03-28 12:02:44,776 - INFO -   adfasd.vcf: last_modified=2025-03-28 11:51:51.126148
+2025-03-28 12:02:44,776 - INFO -   hello.vcf: last_modified=2025-03-28 06:12:38.359836
+2025-03-28 12:02:44,776 - INFO - Card cache refresh complete. Valid cards: ['334.vcf', 'mani.vcf', 'adfasd.vcf', 'hello.vcf']
+2025-03-28 12:02:44,776 - INFO - Found 4 valid vCard files
+2025-03-28 12:02:44,776 - DEBUG - Updating: filename
+2025-03-28 12:02:44,776 - DEBUG - Form field changed
+2025-03-28 12:02:44,776 - DEBUG - Updating: contact_name
+2025-03-28 12:02:44,776 - DEBUG - Form field changed
+2025-03-28 12:02:44,776 - DEBUG - Updating: None
+2025-03-28 12:02:44,776 - DEBUG - Updating: None
+2025-03-28 12:02:44,776 - DEBUG - Updating: None
+2025-03-28 12:02:44,776 - DEBUG - Updating: None
+2025-03-28 12:02:44,776 - DEBUG - Updating: None
+2025-03-28 12:02:44,776 - DEBUG - Updating: None
+2025-03-28 12:02:44,776 - DEBUG - Updating: None
+2025-03-28 12:02:44,776 - DEBUG - Updating: filename
+2025-03-28 12:02:44,777 - DEBUG - Updating: contact_name
+2025-03-28 12:02:44,777 - DEBUG - Form field changed
+2025-03-28 12:02:44,777 - DEBUG - Updating: birthday
+2025-03-28 12:02:44,777 - DEBUG - Updating: anniversary
+2025-03-28 12:02:44,777 - DEBUG - Updating: other_props
+2025-03-28 12:02:44,777 - DEBUG - Updating: None
+2025-03-28 12:02:44,777 - DEBUG - Updating: None
+2025-03-28 12:02:44,777 - DEBUG - Updating: None
+2025-03-28 12:02:44,777 - DEBUG - Updating: None
+2025-03-28 12:02:44,777 - DEBUG - Updating: None
+2025-03-28 12:02:44,777 - DEBUG - Updating: None
+2025-03-28 12:02:44,777 - DEBUG - Updating: username
+2025-03-28 12:02:44,777 - DEBUG - Updating: password
+2025-03-28 12:02:44,777 - DEBUG - Updating: database
+2025-03-28 12:02:44,777 - DEBUG - Updating: None
+2025-03-28 12:02:44,777 - DEBUG - Updating: None
+2025-03-28 12:02:44,777 - DEBUG - Updating: None
+2025-03-28 12:02:44,777 - DEBUG - Updating: None
+2025-03-28 12:02:44,777 - DEBUG - Updating: None
+2025-03-28 12:02:44,777 - DEBUG - Updating: None
+2025-03-28 12:02:44,777 - DEBUG - Updating: username
+2025-03-28 12:02:44,777 - DEBUG - Updating: password
+2025-03-28 12:02:44,777 - DEBUG - Updating: database
+2025-03-28 12:02:44,777 - DEBUG - Updating: None
+2025-03-28 12:02:44,777 - DEBUG - Widget blur: <asciimatics.widgets.label.Label object at 0xffffa595f510>
+2025-03-28 12:02:44,777 - DEBUG - Widget blur: <asciimatics.widgets.label.Label object at 0xffffa595f850>
+2025-03-28 12:02:44,777 - DEBUG - Widget blur: <asciimatics.widgets.text.Text object at 0xffffa5d2f790>
+2025-03-28 12:02:44,777 - DEBUG - Widget blur: <asciimatics.widgets.text.Text object at 0xffffa5dd34c0>
+2025-03-28 12:02:44,777 - DEBUG - Widget blur: <asciimatics.widgets.text.Text object at 0xffffa5dd32e0>
+2025-03-28 12:02:44,777 - DEBUG - Widget blur: <asciimatics.widgets.label.Label object at 0xffffa595f920>
+2025-03-28 12:02:44,777 - DEBUG - Blur: <asciimatics.widgets.layout.Layout object at 0xffffa5957940>
+2025-03-28 12:02:44,777 - DEBUG - Updating: None
+2025-03-28 12:02:44,777 - DEBUG - Updating: None
+2025-03-28 12:02:44,777 - DEBUG - Widget blur: <asciimatics.widgets.button.Button object at 0xffffa5984660>
+2025-03-28 12:02:44,777 - DEBUG - Widget blur: <asciimatics.widgets.button.Button object at 0xffffa5984580>
+2025-03-28 12:02:44,777 - DEBUG - Blur: <asciimatics.widgets.layout.Layout object at 0xffffa59579a0>
+2025-03-28 12:02:44,777 - DEBUG - Updating: None
+2025-03-28 12:02:44,777 - DEBUG - Widget blur: <asciimatics.widgets.label.Label object at 0xffffa595f9f0>
+2025-03-28 12:02:44,777 - DEBUG - Blur: <asciimatics.widgets.layout.Layout object at 0xffffa5957a00>
+2025-03-28 12:02:44,777 - DEBUG - Focus: <asciimatics.widgets.layout.Layout object at 0xffffa5957940>
+2025-03-28 12:02:44,777 - DEBUG - Widget focus: <asciimatics.widgets.text.Text object at 0xffffa5d2f790>
+2025-03-28 12:02:44,777 - DEBUG - Cloning: Login to Database
+2025-03-28 12:02:44,777 - DEBUG - Updating: None
+2025-03-28 12:02:44,777 - DEBUG - Updating: None
+2025-03-28 12:02:44,777 - DEBUG - Updating: username
+2025-03-28 12:02:44,777 - DEBUG - Updating: password
+2025-03-28 12:02:44,777 - DEBUG - Updating: database
+2025-03-28 12:02:44,777 - DEBUG - Updating: None
+2025-03-28 12:02:44,777 - DEBUG - Updating: None
+2025-03-28 12:02:44,777 - DEBUG - Updating: None
+2025-03-28 12:02:44,777 - DEBUG - Updating: None
+2025-03-28 12:02:44,777 - DEBUG - Updating: None
+2025-03-28 12:02:44,777 - DEBUG - Updating: None
+2025-03-28 12:02:44,777 - DEBUG - Updating: username
+2025-03-28 12:02:44,777 - DEBUG - Updating: password
+2025-03-28 12:02:44,777 - DEBUG - Updating: database
+2025-03-28 12:02:44,777 - DEBUG - Updating: None
+2025-03-28 12:02:44,777 - DEBUG - Updating: None
+2025-03-28 12:02:44,777 - DEBUG - Updating: None
+2025-03-28 12:02:44,777 - DEBUG - Updating: None

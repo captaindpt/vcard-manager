@@ -1,0 +1,83 @@
+2025-03-28 05:50:00,555 - DEBUG - Scanning directory: /home/socs/assign1/assign2/assign3/./bin/cards
+2025-03-28 05:50:00,555 - DEBUG - Found vCard file: /home/socs/assign1/assign2/assign3/./bin/cards/mani.vcf
+2025-03-28 05:50:00,555 - DEBUG - create_card result for mani.vcf: 0
+2025-03-28 05:50:00,555 - DEBUG - validate_card result for mani.vcf: 0
+2025-03-28 05:50:00,555 - DEBUG - Added valid card to list: mani.vcf
+2025-03-28 05:50:00,555 - INFO - Found 1 valid vCard files
+2025-03-28 05:50:00,556 - DEBUG - Updating: filename
+2025-03-28 05:50:00,556 - DEBUG - Updating: contact_name
+2025-03-28 05:50:00,556 - DEBUG - Updating: birthday
+2025-03-28 05:50:00,556 - DEBUG - Updating: anniversary
+2025-03-28 05:50:00,556 - DEBUG - Updating: other_props
+2025-03-28 05:50:00,556 - DEBUG - Updating: None
+2025-03-28 05:50:00,556 - DEBUG - Updating: None
+2025-03-28 05:50:00,556 - DEBUG - Updating: None
+2025-03-28 05:50:00,556 - DEBUG - Updating: None
+2025-03-28 05:50:00,556 - DEBUG - Initialized empty form for new card
+2025-03-28 05:50:00,556 - DEBUG - Updating: None
+2025-03-28 05:50:00,556 - DEBUG - Updating: None
+2025-03-28 05:50:00,556 - DEBUG - Updating: username
+2025-03-28 05:50:00,556 - DEBUG - Updating: password
+2025-03-28 05:50:00,556 - DEBUG - Updating: database
+2025-03-28 05:50:00,556 - DEBUG - Updating: None
+2025-03-28 05:50:00,556 - DEBUG - Updating: None
+2025-03-28 05:50:00,556 - DEBUG - Updating: None
+2025-03-28 05:50:00,556 - DEBUG - Updating: None
+2025-03-28 05:50:00,556 - DEBUG - Updating: None
+2025-03-28 05:50:00,556 - DEBUG - Updating: None
+2025-03-28 05:50:00,556 - DEBUG - Updating: username
+2025-03-28 05:50:00,556 - DEBUG - Updating: password
+2025-03-28 05:50:00,556 - DEBUG - Updating: database
+2025-03-28 05:50:00,556 - DEBUG - Updating: None
+2025-03-28 05:50:00,556 - DEBUG - Widget blur: <asciimatics.widgets.label.Label object at 0xffffa8afb510>
+2025-03-28 05:50:00,556 - DEBUG - Widget blur: <asciimatics.widgets.label.Label object at 0xffffa8afb5e0>
+2025-03-28 05:50:00,556 - DEBUG - Widget blur: <asciimatics.widgets.text.Text object at 0xffffa8f0f880>
+2025-03-28 05:50:00,556 - DEBUG - Widget blur: <asciimatics.widgets.text.Text object at 0xffffa8fb35b0>
+2025-03-28 05:50:00,556 - DEBUG - Widget blur: <asciimatics.widgets.text.Text object at 0xffffa8fb33d0>
+2025-03-28 05:50:00,556 - DEBUG - Widget blur: <asciimatics.widgets.label.Label object at 0xffffa8afb6b0>
+2025-03-28 05:50:00,556 - DEBUG - Blur: <asciimatics.widgets.layout.Layout object at 0xffffa8af70a0>
+2025-03-28 05:50:00,556 - DEBUG - Updating: None
+2025-03-28 05:50:00,556 - DEBUG - Updating: None
+2025-03-28 05:50:00,556 - DEBUG - Widget blur: <asciimatics.widgets.button.Button object at 0xffffa8b182e0>
+2025-03-28 05:50:00,556 - DEBUG - Widget blur: <asciimatics.widgets.button.Button object at 0xffffa8b183c0>
+2025-03-28 05:50:00,556 - DEBUG - Blur: <asciimatics.widgets.layout.Layout object at 0xffffa8af7100>
+2025-03-28 05:50:00,556 - DEBUG - Updating: None
+2025-03-28 05:50:00,556 - DEBUG - Widget blur: <asciimatics.widgets.label.Label object at 0xffffa8afb780>
+2025-03-28 05:50:00,556 - DEBUG - Blur: <asciimatics.widgets.layout.Layout object at 0xffffa8af7160>
+2025-03-28 05:50:00,556 - DEBUG - Focus: <asciimatics.widgets.layout.Layout object at 0xffffa8af70a0>
+2025-03-28 05:50:00,556 - DEBUG - Widget focus: <asciimatics.widgets.text.Text object at 0xffffa8f0f880>
+2025-03-28 05:50:00,556 - DEBUG - Cloning: Login to Database
+2025-03-28 05:50:00,556 - DEBUG - Updating: None
+2025-03-28 05:50:00,556 - DEBUG - Updating: None
+2025-03-28 05:50:00,556 - DEBUG - Updating: username
+2025-03-28 05:50:00,556 - DEBUG - Updating: password
+2025-03-28 05:50:00,556 - DEBUG - Updating: database
+2025-03-28 05:50:00,556 - DEBUG - Updating: None
+2025-03-28 05:50:00,556 - DEBUG - Updating: None
+2025-03-28 05:50:00,556 - DEBUG - Updating: None
+2025-03-28 05:50:00,556 - DEBUG - Updating: None
+2025-03-28 05:50:00,556 - DEBUG - Updating: None
+2025-03-28 05:50:00,556 - DEBUG - Updating: None
+2025-03-28 05:50:00,556 - DEBUG - Updating: username
+2025-03-28 05:50:00,556 - DEBUG - Updating: password
+2025-03-28 05:50:00,556 - DEBUG - Updating: database
+2025-03-28 05:50:00,556 - DEBUG - Updating: None
+2025-03-28 05:50:00,556 - DEBUG - Updating: None
+2025-03-28 05:50:00,556 - DEBUG - Updating: None
+2025-03-28 05:50:00,556 - DEBUG - Updating: None
+2025-03-28 05:50:00,659 - DEBUG - Processing key: a
+2025-03-28 05:50:00,659 - DEBUG - Returning key: a
+2025-03-28 05:50:00,659 - DEBUG - New event: KeyboardEvent: 10
+2025-03-28 05:50:00,659 - DEBUG - Focus: <asciimatics.widgets.layout.Layout object at 0xffffa8af70a0>
+2025-03-28 05:50:00,659 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffffa8af70a0> KeyboardEvent: 10
+2025-03-28 05:50:00,659 - DEBUG - Current widget left event: KeyboardEvent: 10
+2025-03-28 05:50:01,576 - DEBUG - Processing key: a
+2025-03-28 05:50:01,577 - DEBUG - Returning key: a
+2025-03-28 05:50:01,577 - DEBUG - New event: KeyboardEvent: 10
+2025-03-28 05:50:01,577 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffffa8af70a0> KeyboardEvent: 10
+2025-03-28 05:50:01,577 - DEBUG - Current widget left event: KeyboardEvent: 10
+2025-03-28 05:50:01,854 - DEBUG - Processing key: a
+2025-03-28 05:50:01,856 - DEBUG - Returning key: a
+2025-03-28 05:50:01,856 - DEBUG - New event: KeyboardEvent: 10
+2025-03-28 05:50:01,856 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffffa8af70a0> KeyboardEvent: 10
+2025-03-28 05:50:01,856 - DEBUG - Current widget left event: KeyboardEvent: 10

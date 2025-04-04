@@ -1,0 +1,6 @@
+2025-03-28 05:59:56,971 - DEBUG - Scanning directory: /home/socs/assign1/assign2/assign3/./bin/cards
+2025-03-28 05:59:56,971 - DEBUG - Found vCard file: /home/socs/assign1/assign2/assign3/./bin/cards/mani.vcf
+2025-03-28 05:59:56,971 - DEBUG - create_card result for mani.vcf: 0
+2025-03-28 05:59:56,971 - DEBUG - validate_card result for mani.vcf: 0
+2025-03-28 05:59:56,971 - DEBUG - Added valid card to list: mani.vcf
+2025-03-28 05:59:56,971 - INFO - Found 1 valid vCard files

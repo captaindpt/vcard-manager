@@ -1,0 +1,91 @@
+2025-03-28 06:23:49,930 - INFO - Refreshing card cache
+2025-03-28 06:23:49,930 - INFO - Scanning directory: /home/socs/assign1/assign2/assign3/./bin/cards
+2025-03-28 06:23:49,930 - INFO - All files in directory: ['mani.vcf', 'adfasd.vcf', 'hello.vcf']
+2025-03-28 06:23:49,930 - INFO - Found vCard file: mani.vcf
+2025-03-28 06:23:49,930 - INFO - File details for mani.vcf:
+2025-03-28 06:23:49,930 - INFO -   Size: 46 bytes
+2025-03-28 06:23:49,930 - INFO -   Permissions: 0o100644
+2025-03-28 06:23:49,931 - INFO -   Modified: 2025-03-28 05:50:47.972643
+2025-03-28 06:23:49,931 - INFO - Processing card: mani.vcf
+2025-03-28 06:23:49,931 - INFO - File contents of mani.vcf:
+BEGIN:VCARD
+VERSION:4.0
+FN:werw
+END:VCARD
+
+2025-03-28 06:23:49,931 - INFO - Successfully created card for mani.vcf
+2025-03-28 06:23:49,931 - INFO - Successfully validated card for mani.vcf
+2025-03-28 06:23:49,931 - INFO - Successfully cached valid card: mani.vcf
+2025-03-28 06:23:49,931 - INFO - Found vCard file: adfasd.vcf
+2025-03-28 06:23:49,931 - INFO - File details for adfasd.vcf:
+2025-03-28 06:23:49,931 - INFO -   Size: 46 bytes
+2025-03-28 06:23:49,931 - INFO -   Permissions: 0o100644
+2025-03-28 06:23:49,931 - INFO -   Modified: 2025-03-28 06:03:15.375146
+2025-03-28 06:23:49,931 - INFO - Processing card: adfasd.vcf
+2025-03-28 06:23:49,931 - INFO - File contents of adfasd.vcf:
+BEGIN:VCARD
+VERSION:4.0
+FN:asdf
+END:VCARD
+
+2025-03-28 06:23:49,931 - INFO - Successfully created card for adfasd.vcf
+2025-03-28 06:23:49,931 - INFO - Successfully validated card for adfasd.vcf
+2025-03-28 06:23:49,931 - INFO - Successfully cached valid card: adfasd.vcf
+2025-03-28 06:23:49,931 - INFO - Found vCard file: hello.vcf
+2025-03-28 06:23:49,931 - INFO - File details for hello.vcf:
+2025-03-28 06:23:49,931 - INFO -   Size: 47 bytes
+2025-03-28 06:23:49,931 - INFO -   Permissions: 0o100644
+2025-03-28 06:23:49,931 - INFO -   Modified: 2025-03-28 06:12:38.359836
+2025-03-28 06:23:49,931 - INFO - Processing card: hello.vcf
+2025-03-28 06:23:49,931 - INFO - File contents of hello.vcf:
+BEGIN:VCARD
+VERSION:4.0
+FN:its m
+END:VCARD
+
+2025-03-28 06:23:49,931 - INFO - Successfully created card for hello.vcf
+2025-03-28 06:23:49,931 - INFO - Successfully validated card for hello.vcf
+2025-03-28 06:23:49,931 - INFO - Successfully cached valid card: hello.vcf
+2025-03-28 06:23:49,931 - INFO - Current cache state:
+2025-03-28 06:23:49,931 - INFO -   mani.vcf: last_modified=2025-03-28 05:50:47.972643
+2025-03-28 06:23:49,931 - INFO -   adfasd.vcf: last_modified=2025-03-28 06:03:15.375146
+2025-03-28 06:23:49,931 - INFO -   hello.vcf: last_modified=2025-03-28 06:12:38.359836
+2025-03-28 06:23:49,931 - INFO - Card cache refresh complete. Valid cards: ['mani.vcf', 'adfasd.vcf', 'hello.vcf']
+2025-03-28 06:23:49,932 - INFO - Refreshing card cache
+2025-03-28 06:23:49,932 - INFO - Scanning directory: /home/socs/assign1/assign2/assign3/./bin/cards
+2025-03-28 06:23:49,932 - INFO - All files in directory: ['mani.vcf', 'adfasd.vcf', 'hello.vcf']
+2025-03-28 06:23:49,932 - INFO - Found vCard file: mani.vcf
+2025-03-28 06:23:49,932 - INFO - File details for mani.vcf:
+2025-03-28 06:23:49,932 - INFO -   Size: 46 bytes
+2025-03-28 06:23:49,932 - INFO -   Permissions: 0o100644
+2025-03-28 06:23:49,932 - INFO -   Modified: 2025-03-28 05:50:47.972643
+2025-03-28 06:23:49,932 - INFO - Card mani.vcf unchanged, using cached version
+2025-03-28 06:23:49,932 - INFO - Found vCard file: adfasd.vcf
+2025-03-28 06:23:49,932 - INFO - File details for adfasd.vcf:
+2025-03-28 06:23:49,932 - INFO -   Size: 46 bytes
+2025-03-28 06:23:49,932 - INFO -   Permissions: 0o100644
+2025-03-28 06:23:49,932 - INFO -   Modified: 2025-03-28 06:03:15.375146
+2025-03-28 06:23:49,932 - INFO - Card adfasd.vcf unchanged, using cached version
+2025-03-28 06:23:49,932 - INFO - Found vCard file: hello.vcf
+2025-03-28 06:23:49,932 - INFO - File details for hello.vcf:
+2025-03-28 06:23:49,932 - INFO -   Size: 47 bytes
+2025-03-28 06:23:49,932 - INFO -   Permissions: 0o100644
+2025-03-28 06:23:49,932 - INFO -   Modified: 2025-03-28 06:12:38.359836
+2025-03-28 06:23:49,932 - INFO - Card hello.vcf unchanged, using cached version
+2025-03-28 06:23:49,932 - INFO - Current cache state:
+2025-03-28 06:23:49,932 - INFO -   mani.vcf: last_modified=2025-03-28 05:50:47.972643
+2025-03-28 06:23:49,932 - INFO -   adfasd.vcf: last_modified=2025-03-28 06:03:15.375146
+2025-03-28 06:23:49,932 - INFO -   hello.vcf: last_modified=2025-03-28 06:12:38.359836
+2025-03-28 06:23:49,932 - INFO - Card cache refresh complete. Valid cards: ['mani.vcf', 'adfasd.vcf', 'hello.vcf']
+2025-03-28 06:23:49,932 - INFO - Found 3 valid vCard files
+2025-03-28 06:23:49,932 - DEBUG - Updating: filename
+2025-03-28 06:23:49,932 - DEBUG - Form field changed
+2025-03-28 06:23:49,932 - DEBUG - Updating: contact_name
+2025-03-28 06:23:49,932 - DEBUG - Form field changed
+2025-03-28 06:23:49,932 - DEBUG - Updating: None
+2025-03-28 06:23:49,932 - DEBUG - Updating: None
+2025-03-28 06:23:49,932 - DEBUG - Updating: None
+2025-03-28 06:23:49,932 - DEBUG - Updating: None
+2025-03-28 06:23:49,932 - DEBUG - Updating: None
+2025-03-28 06:23:49,932 - DEBUG - Updating: None
+2025-03-28 06:23:49,932 - DEBUG - Updating: None

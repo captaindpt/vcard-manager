@@ -1,0 +1,2062 @@
+2025-04-03 13:20:11,944 - INFO - Refreshing card cache
+2025-04-03 13:20:11,945 - INFO - Scanning directory: /home/socs/assign1/assign2/assign3/./bin/cards
+2025-04-03 13:20:11,945 - INFO - All files in directory: ['testCardN-compVal.vcf', 'testCardProps-ParamsVals.vcf', 'testCardProps-Groups.vcf', 'testCard-TruncBday.vcf', 'testCardProp-Param.vcf', 'testCardInvEndings.vcf', 'testCardNoEnd.vcf', 'testCardProp-simpleVal.vcf', 'testCard-SimpleFold2.vcf', 'testCardMin.vcf', 'mmmm.vcf', 'testCard-Ann.vcf', 'testCardProps-Params.vcf', 'testCardGroup.vcf', 'testCardNoVersion.vcf', 'testCard-BdayTime.vcf', 'testCardProps-simpleVal.vcf', 'testCard-BdayText.vcf', 'testCardProp-ParamsVals.vcf', 'nnnn.vcf', 'testCard-bothDT.vcf', 'testCard.vcf', 'testCardProps-compVal.vcf', 'testCard-SimpleFold1.vcf', 'testCard-MoreFold.vcf', 'testCard-AnnUTC.vcf']
+2025-04-03 13:20:11,945 - INFO - Found vCard file: testCardN-compVal.vcf
+2025-04-03 13:20:11,945 - INFO - File details for testCardN-compVal.vcf:
+2025-04-03 13:20:11,945 - INFO -   Size: 92 bytes
+2025-04-03 13:20:11,945 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,945 - INFO -   Modified: 2025-03-28 12:15:33.366049
+2025-04-03 13:20:11,945 - INFO - Processing card: testCardN-compVal.vcf
+2025-04-03 13:20:11,945 - INFO - File contents of testCardN-compVal.vcf:
+BEGIN:VCARD
+VERSION:4.0
+FN:Simon Perreault
+N:Perreault;Simon;;;ing. jr,M.Sc.
+END:VCARD
+
+2025-04-03 13:20:11,945 - INFO - Successfully created card for testCardN-compVal.vcf
+2025-04-03 13:20:11,945 - INFO - Successfully validated card for testCardN-compVal.vcf
+2025-04-03 13:20:11,945 - INFO - Successfully cached valid card: testCardN-compVal.vcf
+2025-04-03 13:20:11,945 - INFO - Found vCard file: testCardProps-ParamsVals.vcf
+2025-04-03 13:20:11,945 - INFO - File details for testCardProps-ParamsVals.vcf:
+2025-04-03 13:20:11,945 - INFO -   Size: 565 bytes
+2025-04-03 13:20:11,945 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,945 - INFO -   Modified: 2025-03-28 12:15:32.855049
+2025-04-03 13:20:11,945 - INFO - Processing card: testCardProps-ParamsVals.vcf
+2025-04-03 13:20:11,945 - INFO - File contents of testCardProps-ParamsVals.vcf:
+BEGIN:VCARD
+VERSION:4.0
+FN:Simon Perreault
+N:Perreault;Simon;;;ing. jr,M.Sc.
+GENDER:M
+LANG;PREF=1:fr
+LANG;PREF=2:en
+ORG;TYPE=work:Viagenie
+ADR;TYPE=work:;Suite D2-630;2875 Laurier;Quebec;QC;G1V 2M2;Canada
+TEL;VALUE=uri;TYPE="work,voice";PREF=1:tel:+1-418-656-9254;ext=102
+TEL;VALUE=uri;TYPE="work,cell,voice,video,text":tel:+1-418-262-6501
+EMAIL;TYPE=work:simon.perreault@viagenie.ca
+GEO;TYPE=work:geo:46.772673,-71.282945
+KEY;TYPE=work;VALUE=uri:http://www.viagenie.ca/simon.perreault/simon.asc
+TZ:-0500
+URL;TYPE=home:http://nomis80.org
+END:VCARD
+
+2025-04-03 13:20:11,945 - INFO - Successfully created card for testCardProps-ParamsVals.vcf
+2025-04-03 13:20:11,945 - ERROR - Card validation failed for testCardProps-ParamsVals.vcf: Invalid property (code 3)
+2025-04-03 13:20:11,945 - INFO - Found vCard file: testCardProps-Groups.vcf
+2025-04-03 13:20:11,945 - INFO - File details for testCardProps-Groups.vcf:
+2025-04-03 13:20:11,945 - INFO -   Size: 268 bytes
+2025-04-03 13:20:11,945 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,945 - INFO -   Modified: 2025-03-28 12:15:34.011049
+2025-04-03 13:20:11,945 - INFO - Processing card: testCardProps-Groups.vcf
+2025-04-03 13:20:11,946 - INFO - File contents of testCardProps-Groups.vcf:
+BEGIN:VCARD
+VERSION:4.0
+FN:Simon Perreault
+GENDER:M
+LangPrefs.LANG;PREF=1:fr
+LangPrefs.LANG;PREF=2:en
+Phone.TEL;VALUE=uri;TYPE="work,cell,voice,video,text":tel:+1-418-262-6501
+Phone.TEL;VALUE=uri;TYPE="work,voice";PREF=1:tel:+1-418-656-9254;ext=102
+END:VCARD
+
+2025-04-03 13:20:11,946 - INFO - Successfully created card for testCardProps-Groups.vcf
+2025-04-03 13:20:11,946 - INFO - Successfully validated card for testCardProps-Groups.vcf
+2025-04-03 13:20:11,946 - INFO - Successfully cached valid card: testCardProps-Groups.vcf
+2025-04-03 13:20:11,946 - INFO - Found vCard file: testCard-TruncBday.vcf
+2025-04-03 13:20:11,946 - INFO - File details for testCard-TruncBday.vcf:
+2025-04-03 13:20:11,946 - INFO -   Size: 70 bytes
+2025-04-03 13:20:11,946 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,946 - INFO -   Modified: 2025-03-28 12:15:33.882049
+2025-04-03 13:20:11,946 - INFO - Processing card: testCard-TruncBday.vcf
+2025-04-03 13:20:11,946 - INFO - File contents of testCard-TruncBday.vcf:
+BEGIN:VCARD
+VERSION:4.0
+FN:Simon Perreault
+BDAY:--0203
+END:VCARD
+
+2025-04-03 13:20:11,946 - INFO - Successfully created card for testCard-TruncBday.vcf
+2025-04-03 13:20:11,946 - ERROR - Card validation failed for testCard-TruncBday.vcf: Invalid date/time (code 4)
+2025-04-03 13:20:11,946 - INFO - Found vCard file: testCardProp-Param.vcf
+2025-04-03 13:20:11,946 - INFO - File details for testCardProp-Param.vcf:
+2025-04-03 13:20:11,946 - INFO -   Size: 83 bytes
+2025-04-03 13:20:11,946 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,946 - INFO -   Modified: 2025-03-28 12:15:33.316049
+2025-04-03 13:20:11,946 - INFO - Processing card: testCardProp-Param.vcf
+2025-04-03 13:20:11,946 - INFO - File contents of testCardProp-Param.vcf:
+BEGIN:VCARD
+VERSION:4.0
+FN:Simon Perreault
+GENDER:M
+LANG;PREF=1:fr
+END:VCARD
+
+2025-04-03 13:20:11,946 - INFO - Successfully created card for testCardProp-Param.vcf
+2025-04-03 13:20:11,946 - INFO - Successfully validated card for testCardProp-Param.vcf
+2025-04-03 13:20:11,946 - INFO - Successfully cached valid card: testCardProp-Param.vcf
+2025-04-03 13:20:11,946 - INFO - Found vCard file: testCardInvEndings.vcf
+2025-04-03 13:20:11,946 - INFO - File details for testCardInvEndings.vcf:
+2025-04-03 13:20:11,946 - INFO -   Size: 53 bytes
+2025-04-03 13:20:11,946 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,946 - INFO -   Modified: 2025-03-28 12:15:51.528049
+2025-04-03 13:20:11,946 - INFO - Processing card: testCardInvEndings.vcf
+2025-04-03 13:20:11,946 - INFO - File contents of testCardInvEndings.vcf:
+BEGIN:VCARD
+VERSION:4.0
+FN:Simon Perreault
+END:VCARD
+
+2025-04-03 13:20:11,946 - ERROR - Failed to create card testCardInvEndings.vcf: Invalid card format (code 2)
+2025-04-03 13:20:11,946 - INFO - Found vCard file: testCardNoEnd.vcf
+2025-04-03 13:20:11,946 - INFO - File details for testCardNoEnd.vcf:
+2025-04-03 13:20:11,946 - INFO -   Size: 46 bytes
+2025-04-03 13:20:11,946 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,946 - INFO -   Modified: 2025-03-28 12:15:51.468049
+2025-04-03 13:20:11,946 - INFO - Processing card: testCardNoEnd.vcf
+2025-04-03 13:20:11,946 - INFO - File contents of testCardNoEnd.vcf:
+BEGIN:VCARD
+VERSION:4.0
+FN:Simon Perreault
+
+2025-04-03 13:20:11,946 - ERROR - Failed to create card testCardNoEnd.vcf: Invalid card format (code 2)
+2025-04-03 13:20:11,946 - INFO - Found vCard file: testCardProp-simpleVal.vcf
+2025-04-03 13:20:11,946 - INFO - File details for testCardProp-simpleVal.vcf:
+2025-04-03 13:20:11,946 - INFO -   Size: 67 bytes
+2025-04-03 13:20:11,946 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,946 - INFO -   Modified: 2025-03-28 12:15:34.107049
+2025-04-03 13:20:11,946 - INFO - Processing card: testCardProp-simpleVal.vcf
+2025-04-03 13:20:11,946 - INFO - File contents of testCardProp-simpleVal.vcf:
+BEGIN:VCARD
+VERSION:4.0
+FN:Simon Perreault
+GENDER:M
+END:VCARD
+
+2025-04-03 13:20:11,947 - INFO - Successfully created card for testCardProp-simpleVal.vcf
+2025-04-03 13:20:11,947 - INFO - Successfully validated card for testCardProp-simpleVal.vcf
+2025-04-03 13:20:11,947 - INFO - Successfully cached valid card: testCardProp-simpleVal.vcf
+2025-04-03 13:20:11,947 - INFO - Found vCard file: testCard-SimpleFold2.vcf
+2025-04-03 13:20:11,947 - INFO - File details for testCard-SimpleFold2.vcf:
+2025-04-03 13:20:11,947 - INFO -   Size: 60 bytes
+2025-04-03 13:20:11,947 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,947 - INFO -   Modified: 2025-03-28 12:15:33.214049
+2025-04-03 13:20:11,947 - INFO - Processing card: testCard-SimpleFold2.vcf
+2025-04-03 13:20:11,947 - INFO - File contents of testCard-SimpleFold2.vcf:
+BEGIN:VCARD
+VERSION:4.0
+FN:Simon
+  Perreault
+END:VCARD
+
+2025-04-03 13:20:11,947 - INFO - Successfully created card for testCard-SimpleFold2.vcf
+2025-04-03 13:20:11,947 - INFO - Successfully validated card for testCard-SimpleFold2.vcf
+2025-04-03 13:20:11,947 - INFO - Successfully cached valid card: testCard-SimpleFold2.vcf
+2025-04-03 13:20:11,947 - INFO - Found vCard file: testCardMin.vcf
+2025-04-03 13:20:11,947 - INFO - File details for testCardMin.vcf:
+2025-04-03 13:20:11,947 - INFO -   Size: 57 bytes
+2025-04-03 13:20:11,947 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,947 - INFO -   Modified: 2025-03-28 12:15:33.562049
+2025-04-03 13:20:11,947 - INFO - Processing card: testCardMin.vcf
+2025-04-03 13:20:11,947 - INFO - File contents of testCardMin.vcf:
+BEGIN:VCARD
+VERSION:4.0
+FN:Simon Perreault
+END:VCARD
+
+2025-04-03 13:20:11,947 - INFO - Successfully created card for testCardMin.vcf
+2025-04-03 13:20:11,947 - INFO - Successfully validated card for testCardMin.vcf
+2025-04-03 13:20:11,947 - INFO - Successfully cached valid card: testCardMin.vcf
+2025-04-03 13:20:11,947 - INFO - Found vCard file: mmmm.vcf
+2025-04-03 13:20:11,947 - INFO - File details for mmmm.vcf:
+2025-04-03 13:20:11,947 - INFO -   Size: 46 bytes
+2025-04-03 13:20:11,947 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,947 - INFO -   Modified: 2025-03-28 12:18:48.658144
+2025-04-03 13:20:11,947 - INFO - Processing card: mmmm.vcf
+2025-04-03 13:20:11,947 - INFO - File contents of mmmm.vcf:
+BEGIN:VCARD
+VERSION:4.0
+FN:mani
+END:VCARD
+
+2025-04-03 13:20:11,947 - INFO - Successfully created card for mmmm.vcf
+2025-04-03 13:20:11,947 - INFO - Successfully validated card for mmmm.vcf
+2025-04-03 13:20:11,947 - INFO - Successfully cached valid card: mmmm.vcf
+2025-04-03 13:20:11,947 - INFO - Found vCard file: testCard-Ann.vcf
+2025-04-03 13:20:11,947 - INFO - File details for testCard-Ann.vcf:
+2025-04-03 13:20:11,947 - INFO -   Size: 86 bytes
+2025-04-03 13:20:11,947 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,947 - INFO -   Modified: 2025-03-28 12:15:32.944049
+2025-04-03 13:20:11,947 - INFO - Processing card: testCard-Ann.vcf
+2025-04-03 13:20:11,947 - INFO - File contents of testCard-Ann.vcf:
+BEGIN:VCARD
+VERSION:4.0
+FN:Simon Perreault
+ANNIVERSARY:20090808T143000
+END:VCARD
+
+2025-04-03 13:20:11,947 - INFO - Successfully created card for testCard-Ann.vcf
+2025-04-03 13:20:11,947 - INFO - Successfully validated card for testCard-Ann.vcf
+2025-04-03 13:20:11,947 - INFO - Successfully cached valid card: testCard-Ann.vcf
+2025-04-03 13:20:11,947 - INFO - Found vCard file: testCardProps-Params.vcf
+2025-04-03 13:20:11,947 - INFO - File details for testCardProps-Params.vcf:
+2025-04-03 13:20:11,947 - INFO -   Size: 202 bytes
+2025-04-03 13:20:11,947 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,947 - INFO -   Modified: 2025-03-28 12:15:32.591049
+2025-04-03 13:20:11,947 - INFO - Processing card: testCardProps-Params.vcf
+2025-04-03 13:20:11,947 - INFO - File contents of testCardProps-Params.vcf:
+BEGIN:VCARD
+VERSION:4.0
+FN:Simon Perreault
+GENDER:M
+LANG;PREF=1:fr
+LANG;PREF=2:en
+TEL;VALUE=uri;TYPE="work,cell,voice,video,text":tel:+1-418-262-6501
+URL;TYPE=home:http://nomis80.org
+END:VCARD
+
+2025-04-03 13:20:11,947 - INFO - Successfully created card for testCardProps-Params.vcf
+2025-04-03 13:20:11,947 - INFO - Successfully validated card for testCardProps-Params.vcf
+2025-04-03 13:20:11,947 - INFO - Successfully cached valid card: testCardProps-Params.vcf
+2025-04-03 13:20:11,947 - INFO - Found vCard file: testCardGroup.vcf
+2025-04-03 13:20:11,947 - INFO - File details for testCardGroup.vcf:
+2025-04-03 13:20:11,947 - INFO -   Size: 879 bytes
+2025-04-03 13:20:11,947 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,947 - INFO -   Modified: 2025-03-28 12:15:33.731049
+2025-04-03 13:20:11,948 - INFO - Processing card: testCardGroup.vcf
+2025-04-03 13:20:11,948 - INFO - File contents of testCardGroup.vcf:
+BEGIN:VCARD
+VERSION:4.0
+N:Doe;John;;;
+FN:John Doe
+ORG:Example.com Inc.;
+TITLE:Imaginary test person
+EMAIL;type=INTERNET;type=WORK;type=pref:johnDoe@example.org
+TEL;type=WORK;type=pref:+1 617 555 1212
+TEL;type=CELL:+1 781 555 1212
+TEL;type=HOME:+1 202 555 1212
+TEL;type=WORK:+1 (617) 555-1234
+item1.ADR;type=WORK:;;2 Example Avenue;Anytown;NY;01111;USA
+item1.X-ABADR:us
+item2.ADR;type=HOME;type=pref:;;3 Acacia Avenue;Newtown;MA;02222;USA
+item2.X-ABADR:us
+NOTE:John Doe has a long and varied history
+ , being documented on more police files that anyone else. Reports of his death are alas numerous.
+item3.URL;type=pref:http://www.example/com/doe
+item3.X-ABLabel:_$!<HomePage>!$_
+item4.URL:http://www.example.com/Joe/foaf.df
+item4.X-ABLabel:FOAF
+item5.X-ABRELATEDNAMES;type=pref:Jane Doe
+item5.X-ABLabel:_$!<Friend>!$_
+CATEGORIES:Work,Test group
+END:VCARD
+
+2025-04-03 13:20:11,948 - INFO - Successfully created card for testCardGroup.vcf
+2025-04-03 13:20:11,948 - ERROR - Card validation failed for testCardGroup.vcf: Invalid property (code 3)
+2025-04-03 13:20:11,948 - INFO - Found vCard file: testCardNoVersion.vcf
+2025-04-03 13:20:11,948 - INFO - File details for testCardNoVersion.vcf:
+2025-04-03 13:20:11,948 - INFO -   Size: 44 bytes
+2025-04-03 13:20:11,948 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,948 - INFO -   Modified: 2025-03-28 12:15:51.625049
+2025-04-03 13:20:11,948 - INFO - Processing card: testCardNoVersion.vcf
+2025-04-03 13:20:11,948 - INFO - File contents of testCardNoVersion.vcf:
+BEGIN:VCARD
+FN:Simon Perreault
+END:VCARD
+
+2025-04-03 13:20:11,948 - ERROR - Failed to create card testCardNoVersion.vcf: Invalid card format (code 2)
+2025-04-03 13:20:11,948 - INFO - Found vCard file: testCard-BdayTime.vcf
+2025-04-03 13:20:11,948 - INFO - File details for testCard-BdayTime.vcf:
+2025-04-03 13:20:11,948 - INFO -   Size: 71 bytes
+2025-04-03 13:20:11,948 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,948 - INFO -   Modified: 2025-03-28 12:15:32.684049
+2025-04-03 13:20:11,948 - INFO - Processing card: testCard-BdayTime.vcf
+2025-04-03 13:20:11,948 - INFO - File contents of testCard-BdayTime.vcf:
+BEGIN:VCARD
+VERSION:4.0
+FN:Simon Perreault
+BDAY:T143000
+END:VCARD
+
+2025-04-03 13:20:11,948 - INFO - Successfully created card for testCard-BdayTime.vcf
+2025-04-03 13:20:11,948 - INFO - Successfully validated card for testCard-BdayTime.vcf
+2025-04-03 13:20:11,948 - INFO - Successfully cached valid card: testCard-BdayTime.vcf
+2025-04-03 13:20:11,948 - INFO - Found vCard file: testCardProps-simpleVal.vcf
+2025-04-03 13:20:11,948 - INFO - File details for testCardProps-simpleVal.vcf:
+2025-04-03 13:20:11,948 - INFO -   Size: 81 bytes
+2025-04-03 13:20:11,948 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,948 - INFO -   Modified: 2025-03-28 12:15:33.163049
+2025-04-03 13:20:11,948 - INFO - Processing card: testCardProps-simpleVal.vcf
+2025-04-03 13:20:11,948 - INFO - File contents of testCardProps-simpleVal.vcf:
+BEGIN:VCARD
+VERSION:4.0
+FN:Simon Perreault
+GENDER:M
+ORG:Viagenie
+END:VCARD
+
+2025-04-03 13:20:11,948 - INFO - Successfully created card for testCardProps-simpleVal.vcf
+2025-04-03 13:20:11,948 - INFO - Successfully validated card for testCardProps-simpleVal.vcf
+2025-04-03 13:20:11,948 - INFO - Successfully cached valid card: testCardProps-simpleVal.vcf
+2025-04-03 13:20:11,948 - INFO - Found vCard file: testCard-BdayText.vcf
+2025-04-03 13:20:11,948 - INFO - File details for testCard-BdayText.vcf:
+2025-04-03 13:20:11,948 - INFO -   Size: 85 bytes
+2025-04-03 13:20:11,948 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,948 - INFO -   Modified: 2025-03-28 12:15:33.772049
+2025-04-03 13:20:11,948 - INFO - Processing card: testCard-BdayText.vcf
+2025-04-03 13:20:11,948 - INFO - File contents of testCard-BdayText.vcf:
+BEGIN:VCARD
+VERSION:4.0
+FN:Simon Perreault
+BDAY;VALUE=text:circa 1960
+END:VCARD
+
+2025-04-03 13:20:11,948 - INFO - Successfully created card for testCard-BdayText.vcf
+2025-04-03 13:20:11,948 - INFO - Successfully validated card for testCard-BdayText.vcf
+2025-04-03 13:20:11,948 - INFO - Successfully cached valid card: testCard-BdayText.vcf
+2025-04-03 13:20:11,948 - INFO - Found vCard file: testCardProp-ParamsVals.vcf
+2025-04-03 13:20:11,948 - INFO - File details for testCardProp-ParamsVals.vcf:
+2025-04-03 13:20:11,948 - INFO -   Size: 125 bytes
+2025-04-03 13:20:11,948 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,948 - INFO -   Modified: 2025-03-28 12:15:33.041049
+2025-04-03 13:20:11,948 - INFO - Processing card: testCardProp-ParamsVals.vcf
+2025-04-03 13:20:11,948 - INFO - File contents of testCardProp-ParamsVals.vcf:
+BEGIN:VCARD
+VERSION:4.0
+FN:Simon Perreault
+TEL;VALUE=uri;TYPE="work,voice";PREF=1:tel:+1-418-656-9254;ext=102
+END:VCARD
+
+2025-04-03 13:20:11,948 - INFO - Successfully created card for testCardProp-ParamsVals.vcf
+2025-04-03 13:20:11,948 - INFO - Successfully validated card for testCardProp-ParamsVals.vcf
+2025-04-03 13:20:11,948 - INFO - Successfully cached valid card: testCardProp-ParamsVals.vcf
+2025-04-03 13:20:11,948 - INFO - Found vCard file: nnnn.vcf
+2025-04-03 13:20:11,948 - INFO - File details for nnnn.vcf:
+2025-04-03 13:20:11,948 - INFO -   Size: 47 bytes
+2025-04-03 13:20:11,948 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,948 - INFO -   Modified: 2025-03-28 12:28:54.030319
+2025-04-03 13:20:11,949 - INFO - Processing card: nnnn.vcf
+2025-04-03 13:20:11,949 - INFO - File contents of nnnn.vcf:
+BEGIN:VCARD
+VERSION:4.0
+FN:mani2
+END:VCARD
+
+2025-04-03 13:20:11,949 - INFO - Successfully created card for nnnn.vcf
+2025-04-03 13:20:11,949 - INFO - Successfully validated card for nnnn.vcf
+2025-04-03 13:20:11,949 - INFO - Successfully cached valid card: nnnn.vcf
+2025-04-03 13:20:11,949 - INFO - Found vCard file: testCard-bothDT.vcf
+2025-04-03 13:20:11,949 - INFO - File details for testCard-bothDT.vcf:
+2025-04-03 13:20:11,949 - INFO -   Size: 108 bytes
+2025-04-03 13:20:11,949 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,949 - INFO -   Modified: 2025-03-28 12:15:33.095049
+2025-04-03 13:20:11,949 - INFO - Processing card: testCard-bothDT.vcf
+2025-04-03 13:20:11,949 - INFO - File contents of testCard-bothDT.vcf:
+BEGIN:VCARD
+VERSION:4.0
+FN:Simon Perreault
+BDAY:19540203T123012
+ANNIVERSARY:20090808T143000
+END:VCARD
+
+2025-04-03 13:20:11,949 - INFO - Successfully created card for testCard-bothDT.vcf
+2025-04-03 13:20:11,949 - INFO - Successfully validated card for testCard-bothDT.vcf
+2025-04-03 13:20:11,949 - INFO - Successfully cached valid card: testCard-bothDT.vcf
+2025-04-03 13:20:11,949 - INFO - Found vCard file: testCard.vcf
+2025-04-03 13:20:11,949 - INFO - File details for testCard.vcf:
+2025-04-03 13:20:11,949 - INFO -   Size: 613 bytes
+2025-04-03 13:20:11,949 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,949 - INFO -   Modified: 2025-03-28 12:15:33.945049
+2025-04-03 13:20:11,949 - INFO - Processing card: testCard.vcf
+2025-04-03 13:20:11,949 - INFO - File contents of testCard.vcf:
+BEGIN:VCARD
+VERSION:4.0
+FN:Simon Perreault
+N:Perreault;Simon;;;ing. jr,M.Sc.
+BDAY:--0203
+ANNIVERSARY:20090808T143000
+GENDER:M
+LANG;PREF=1:fr
+LANG;PREF=2:en
+ORG;TYPE=work:Viagenie
+ADR;TYPE=work:;Suite D2-630;2875 Laurier;
+ Quebec;QC;G1V 2M2;Canada
+TEL;VALUE=uri;TYPE="work,voice";PREF=1:tel:+1-418-656-9254;ext=102
+TEL;VALUE=uri;TYPE="work,cell,voice,video,text":tel:+1-418-262-6501
+EMAIL;TYPE=work:simon.perreault@viagenie.ca
+GEO;TYPE=work:geo:46.772673,-71.282945
+KEY;TYPE=work;VALUE=uri:
+ http://www.viagenie.ca/simon.perreault/simon.asc
+TZ:-0500
+URL;TYPE=home:http://nomis80.org
+END:VCARD
+
+2025-04-03 13:20:11,949 - INFO - Successfully created card for testCard.vcf
+2025-04-03 13:20:11,949 - ERROR - Card validation failed for testCard.vcf: Invalid property (code 3)
+2025-04-03 13:20:11,949 - INFO - Found vCard file: testCardProps-compVal.vcf
+2025-04-03 13:20:11,949 - INFO - File details for testCardProps-compVal.vcf:
+2025-04-03 13:20:11,949 - INFO -   Size: 179 bytes
+2025-04-03 13:20:11,949 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,949 - INFO -   Modified: 2025-03-28 12:15:32.410049
+2025-04-03 13:20:11,949 - INFO - Processing card: testCardProps-compVal.vcf
+2025-04-03 13:20:11,949 - INFO - File contents of testCardProps-compVal.vcf:
+BEGIN:VCARD
+VERSION:4.0
+FN:Simon Perreault
+N:Perreault;Simon;;;ing. jr,M.Sc.
+ADR:;Suite D2-630;2875 Laurier;Quebec;QC;G1V 2M2;Canada
+GEO:geo:46.772673,-71.282945
+END:VCARD
+
+2025-04-03 13:20:11,949 - INFO - Successfully created card for testCardProps-compVal.vcf
+2025-04-03 13:20:11,949 - INFO - Successfully validated card for testCardProps-compVal.vcf
+2025-04-03 13:20:11,949 - INFO - Successfully cached valid card: testCardProps-compVal.vcf
+2025-04-03 13:20:11,949 - INFO - Found vCard file: testCard-SimpleFold1.vcf
+2025-04-03 13:20:11,949 - INFO - File details for testCard-SimpleFold1.vcf:
+2025-04-03 13:20:11,949 - INFO -   Size: 60 bytes
+2025-04-03 13:20:11,949 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,949 - INFO -   Modified: 2025-03-28 12:15:33.623049
+2025-04-03 13:20:11,949 - INFO - Processing card: testCard-SimpleFold1.vcf
+2025-04-03 13:20:11,949 - INFO - File contents of testCard-SimpleFold1.vcf:
+BEGIN:VCARD
+VERSION:4.0
+FN:Sim
+ on Perreault
+END:VCARD
+
+2025-04-03 13:20:11,949 - INFO - Successfully created card for testCard-SimpleFold1.vcf
+2025-04-03 13:20:11,949 - INFO - Successfully validated card for testCard-SimpleFold1.vcf
+2025-04-03 13:20:11,949 - INFO - Successfully cached valid card: testCard-SimpleFold1.vcf
+2025-04-03 13:20:11,949 - INFO - Found vCard file: testCard-MoreFold.vcf
+2025-04-03 13:20:11,949 - INFO - File details for testCard-MoreFold.vcf:
+2025-04-03 13:20:11,949 - INFO -   Size: 204 bytes
+2025-04-03 13:20:11,949 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,949 - INFO -   Modified: 2025-03-28 12:15:32.510049
+2025-04-03 13:20:11,949 - INFO - Processing card: testCard-MoreFold.vcf
+2025-04-03 13:20:11,949 - INFO - File contents of testCard-MoreFold.vcf:
+BEGIN:VCARD
+VERSION:4.0
+FN:Simon Perreault
+ADR;TYPE=work:;Suite D2-630;2875 Laurier;
+ Quebec;QC;G1V 2M2;Canada
+KEY;TYPE=work;VALUE=uri:
+ http://www.viagenie.ca/simon.perreault/simon.asc
+END:VCARD
+
+2025-04-03 13:20:11,949 - INFO - Successfully created card for testCard-MoreFold.vcf
+2025-04-03 13:20:11,949 - ERROR - Card validation failed for testCard-MoreFold.vcf: Invalid property (code 3)
+2025-04-03 13:20:11,949 - INFO - Found vCard file: testCard-AnnUTC.vcf
+2025-04-03 13:20:11,949 - INFO - File details for testCard-AnnUTC.vcf:
+2025-04-03 13:20:11,949 - INFO -   Size: 87 bytes
+2025-04-03 13:20:11,949 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,949 - INFO -   Modified: 2025-03-28 12:15:33.475049
+2025-04-03 13:20:11,949 - INFO - Processing card: testCard-AnnUTC.vcf
+2025-04-03 13:20:11,949 - INFO - File contents of testCard-AnnUTC.vcf:
+BEGIN:VCARD
+VERSION:4.0
+FN:Simon Perreault
+ANNIVERSARY:20090808T143000Z
+END:VCARD
+
+2025-04-03 13:20:11,949 - INFO - Successfully created card for testCard-AnnUTC.vcf
+2025-04-03 13:20:11,949 - ERROR - Card validation failed for testCard-AnnUTC.vcf: Invalid date/time (code 4)
+2025-04-03 13:20:11,949 - INFO - Current cache state:
+2025-04-03 13:20:11,949 - INFO -   testCardN-compVal.vcf: last_modified=2025-03-28 12:15:33.366049
+2025-04-03 13:20:11,949 - INFO -   testCardProps-Groups.vcf: last_modified=2025-03-28 12:15:34.011049
+2025-04-03 13:20:11,949 - INFO -   testCardProp-Param.vcf: last_modified=2025-03-28 12:15:33.316049
+2025-04-03 13:20:11,949 - INFO -   testCardProp-simpleVal.vcf: last_modified=2025-03-28 12:15:34.107049
+2025-04-03 13:20:11,949 - INFO -   testCard-SimpleFold2.vcf: last_modified=2025-03-28 12:15:33.214049
+2025-04-03 13:20:11,949 - INFO -   testCardMin.vcf: last_modified=2025-03-28 12:15:33.562049
+2025-04-03 13:20:11,949 - INFO -   mmmm.vcf: last_modified=2025-03-28 12:18:48.658144
+2025-04-03 13:20:11,949 - INFO -   testCard-Ann.vcf: last_modified=2025-03-28 12:15:32.944049
+2025-04-03 13:20:11,949 - INFO -   testCardProps-Params.vcf: last_modified=2025-03-28 12:15:32.591049
+2025-04-03 13:20:11,950 - INFO -   testCard-BdayTime.vcf: last_modified=2025-03-28 12:15:32.684049
+2025-04-03 13:20:11,950 - INFO -   testCardProps-simpleVal.vcf: last_modified=2025-03-28 12:15:33.163049
+2025-04-03 13:20:11,950 - INFO -   testCard-BdayText.vcf: last_modified=2025-03-28 12:15:33.772049
+2025-04-03 13:20:11,950 - INFO -   testCardProp-ParamsVals.vcf: last_modified=2025-03-28 12:15:33.041049
+2025-04-03 13:20:11,950 - INFO -   nnnn.vcf: last_modified=2025-03-28 12:28:54.030319
+2025-04-03 13:20:11,950 - INFO -   testCard-bothDT.vcf: last_modified=2025-03-28 12:15:33.095049
+2025-04-03 13:20:11,950 - INFO -   testCardProps-compVal.vcf: last_modified=2025-03-28 12:15:32.410049
+2025-04-03 13:20:11,950 - INFO -   testCard-SimpleFold1.vcf: last_modified=2025-03-28 12:15:33.623049
+2025-04-03 13:20:11,950 - INFO - Card cache refresh complete. Valid cards: ['testCardN-compVal.vcf', 'testCardProps-Groups.vcf', 'testCardProp-Param.vcf', 'testCardProp-simpleVal.vcf', 'testCard-SimpleFold2.vcf', 'testCardMin.vcf', 'mmmm.vcf', 'testCard-Ann.vcf', 'testCardProps-Params.vcf', 'testCard-BdayTime.vcf', 'testCardProps-simpleVal.vcf', 'testCard-BdayText.vcf', 'testCardProp-ParamsVals.vcf', 'nnnn.vcf', 'testCard-bothDT.vcf', 'testCardProps-compVal.vcf', 'testCard-SimpleFold1.vcf']
+2025-04-03 13:20:11,951 - INFO - Refreshing card cache
+2025-04-03 13:20:11,951 - INFO - Scanning directory: /home/socs/assign1/assign2/assign3/./bin/cards
+2025-04-03 13:20:11,951 - INFO - All files in directory: ['testCardN-compVal.vcf', 'testCardProps-ParamsVals.vcf', 'testCardProps-Groups.vcf', 'testCard-TruncBday.vcf', 'testCardProp-Param.vcf', 'testCardInvEndings.vcf', 'testCardNoEnd.vcf', 'testCardProp-simpleVal.vcf', 'testCard-SimpleFold2.vcf', 'testCardMin.vcf', 'mmmm.vcf', 'testCard-Ann.vcf', 'testCardProps-Params.vcf', 'testCardGroup.vcf', 'testCardNoVersion.vcf', 'testCard-BdayTime.vcf', 'testCardProps-simpleVal.vcf', 'testCard-BdayText.vcf', 'testCardProp-ParamsVals.vcf', 'nnnn.vcf', 'testCard-bothDT.vcf', 'testCard.vcf', 'testCardProps-compVal.vcf', 'testCard-SimpleFold1.vcf', 'testCard-MoreFold.vcf', 'testCard-AnnUTC.vcf']
+2025-04-03 13:20:11,951 - INFO - Found vCard file: testCardN-compVal.vcf
+2025-04-03 13:20:11,951 - INFO - File details for testCardN-compVal.vcf:
+2025-04-03 13:20:11,951 - INFO -   Size: 92 bytes
+2025-04-03 13:20:11,951 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,951 - INFO -   Modified: 2025-03-28 12:15:33.366049
+2025-04-03 13:20:11,951 - INFO - Card testCardN-compVal.vcf unchanged, using cached version
+2025-04-03 13:20:11,951 - INFO - Found vCard file: testCardProps-ParamsVals.vcf
+2025-04-03 13:20:11,951 - INFO - File details for testCardProps-ParamsVals.vcf:
+2025-04-03 13:20:11,951 - INFO -   Size: 565 bytes
+2025-04-03 13:20:11,951 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,951 - INFO -   Modified: 2025-03-28 12:15:32.855049
+2025-04-03 13:20:11,951 - INFO - Processing card: testCardProps-ParamsVals.vcf
+2025-04-03 13:20:11,951 - INFO - File contents of testCardProps-ParamsVals.vcf:
+BEGIN:VCARD
+VERSION:4.0
+FN:Simon Perreault
+N:Perreault;Simon;;;ing. jr,M.Sc.
+GENDER:M
+LANG;PREF=1:fr
+LANG;PREF=2:en
+ORG;TYPE=work:Viagenie
+ADR;TYPE=work:;Suite D2-630;2875 Laurier;Quebec;QC;G1V 2M2;Canada
+TEL;VALUE=uri;TYPE="work,voice";PREF=1:tel:+1-418-656-9254;ext=102
+TEL;VALUE=uri;TYPE="work,cell,voice,video,text":tel:+1-418-262-6501
+EMAIL;TYPE=work:simon.perreault@viagenie.ca
+GEO;TYPE=work:geo:46.772673,-71.282945
+KEY;TYPE=work;VALUE=uri:http://www.viagenie.ca/simon.perreault/simon.asc
+TZ:-0500
+URL;TYPE=home:http://nomis80.org
+END:VCARD
+
+2025-04-03 13:20:11,951 - INFO - Successfully created card for testCardProps-ParamsVals.vcf
+2025-04-03 13:20:11,951 - ERROR - Card validation failed for testCardProps-ParamsVals.vcf: Invalid property (code 3)
+2025-04-03 13:20:11,951 - INFO - Found vCard file: testCardProps-Groups.vcf
+2025-04-03 13:20:11,951 - INFO - File details for testCardProps-Groups.vcf:
+2025-04-03 13:20:11,951 - INFO -   Size: 268 bytes
+2025-04-03 13:20:11,951 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,951 - INFO -   Modified: 2025-03-28 12:15:34.011049
+2025-04-03 13:20:11,951 - INFO - Card testCardProps-Groups.vcf unchanged, using cached version
+2025-04-03 13:20:11,951 - INFO - Found vCard file: testCard-TruncBday.vcf
+2025-04-03 13:20:11,951 - INFO - File details for testCard-TruncBday.vcf:
+2025-04-03 13:20:11,951 - INFO -   Size: 70 bytes
+2025-04-03 13:20:11,951 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,951 - INFO -   Modified: 2025-03-28 12:15:33.882049
+2025-04-03 13:20:11,951 - INFO - Processing card: testCard-TruncBday.vcf
+2025-04-03 13:20:11,951 - INFO - File contents of testCard-TruncBday.vcf:
+BEGIN:VCARD
+VERSION:4.0
+FN:Simon Perreault
+BDAY:--0203
+END:VCARD
+
+2025-04-03 13:20:11,951 - INFO - Successfully created card for testCard-TruncBday.vcf
+2025-04-03 13:20:11,951 - ERROR - Card validation failed for testCard-TruncBday.vcf: Invalid date/time (code 4)
+2025-04-03 13:20:11,951 - INFO - Found vCard file: testCardProp-Param.vcf
+2025-04-03 13:20:11,951 - INFO - File details for testCardProp-Param.vcf:
+2025-04-03 13:20:11,951 - INFO -   Size: 83 bytes
+2025-04-03 13:20:11,951 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,951 - INFO -   Modified: 2025-03-28 12:15:33.316049
+2025-04-03 13:20:11,951 - INFO - Card testCardProp-Param.vcf unchanged, using cached version
+2025-04-03 13:20:11,951 - INFO - Found vCard file: testCardInvEndings.vcf
+2025-04-03 13:20:11,951 - INFO - File details for testCardInvEndings.vcf:
+2025-04-03 13:20:11,951 - INFO -   Size: 53 bytes
+2025-04-03 13:20:11,951 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,951 - INFO -   Modified: 2025-03-28 12:15:51.528049
+2025-04-03 13:20:11,951 - INFO - Processing card: testCardInvEndings.vcf
+2025-04-03 13:20:11,951 - INFO - File contents of testCardInvEndings.vcf:
+BEGIN:VCARD
+VERSION:4.0
+FN:Simon Perreault
+END:VCARD
+
+2025-04-03 13:20:11,951 - ERROR - Failed to create card testCardInvEndings.vcf: Invalid card format (code 2)
+2025-04-03 13:20:11,951 - INFO - Found vCard file: testCardNoEnd.vcf
+2025-04-03 13:20:11,951 - INFO - File details for testCardNoEnd.vcf:
+2025-04-03 13:20:11,951 - INFO -   Size: 46 bytes
+2025-04-03 13:20:11,951 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,951 - INFO -   Modified: 2025-03-28 12:15:51.468049
+2025-04-03 13:20:11,951 - INFO - Processing card: testCardNoEnd.vcf
+2025-04-03 13:20:11,951 - INFO - File contents of testCardNoEnd.vcf:
+BEGIN:VCARD
+VERSION:4.0
+FN:Simon Perreault
+
+2025-04-03 13:20:11,951 - ERROR - Failed to create card testCardNoEnd.vcf: Invalid card format (code 2)
+2025-04-03 13:20:11,951 - INFO - Found vCard file: testCardProp-simpleVal.vcf
+2025-04-03 13:20:11,951 - INFO - File details for testCardProp-simpleVal.vcf:
+2025-04-03 13:20:11,951 - INFO -   Size: 67 bytes
+2025-04-03 13:20:11,951 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,951 - INFO -   Modified: 2025-03-28 12:15:34.107049
+2025-04-03 13:20:11,951 - INFO - Card testCardProp-simpleVal.vcf unchanged, using cached version
+2025-04-03 13:20:11,951 - INFO - Found vCard file: testCard-SimpleFold2.vcf
+2025-04-03 13:20:11,951 - INFO - File details for testCard-SimpleFold2.vcf:
+2025-04-03 13:20:11,951 - INFO -   Size: 60 bytes
+2025-04-03 13:20:11,951 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,951 - INFO -   Modified: 2025-03-28 12:15:33.214049
+2025-04-03 13:20:11,951 - INFO - Card testCard-SimpleFold2.vcf unchanged, using cached version
+2025-04-03 13:20:11,951 - INFO - Found vCard file: testCardMin.vcf
+2025-04-03 13:20:11,951 - INFO - File details for testCardMin.vcf:
+2025-04-03 13:20:11,951 - INFO -   Size: 57 bytes
+2025-04-03 13:20:11,951 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,951 - INFO -   Modified: 2025-03-28 12:15:33.562049
+2025-04-03 13:20:11,951 - INFO - Card testCardMin.vcf unchanged, using cached version
+2025-04-03 13:20:11,951 - INFO - Found vCard file: mmmm.vcf
+2025-04-03 13:20:11,952 - INFO - File details for mmmm.vcf:
+2025-04-03 13:20:11,952 - INFO -   Size: 46 bytes
+2025-04-03 13:20:11,952 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,952 - INFO -   Modified: 2025-03-28 12:18:48.658144
+2025-04-03 13:20:11,952 - INFO - Card mmmm.vcf unchanged, using cached version
+2025-04-03 13:20:11,952 - INFO - Found vCard file: testCard-Ann.vcf
+2025-04-03 13:20:11,952 - INFO - File details for testCard-Ann.vcf:
+2025-04-03 13:20:11,952 - INFO -   Size: 86 bytes
+2025-04-03 13:20:11,952 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,952 - INFO -   Modified: 2025-03-28 12:15:32.944049
+2025-04-03 13:20:11,952 - INFO - Card testCard-Ann.vcf unchanged, using cached version
+2025-04-03 13:20:11,952 - INFO - Found vCard file: testCardProps-Params.vcf
+2025-04-03 13:20:11,952 - INFO - File details for testCardProps-Params.vcf:
+2025-04-03 13:20:11,952 - INFO -   Size: 202 bytes
+2025-04-03 13:20:11,952 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,952 - INFO -   Modified: 2025-03-28 12:15:32.591049
+2025-04-03 13:20:11,952 - INFO - Card testCardProps-Params.vcf unchanged, using cached version
+2025-04-03 13:20:11,952 - INFO - Found vCard file: testCardGroup.vcf
+2025-04-03 13:20:11,952 - INFO - File details for testCardGroup.vcf:
+2025-04-03 13:20:11,952 - INFO -   Size: 879 bytes
+2025-04-03 13:20:11,952 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,952 - INFO -   Modified: 2025-03-28 12:15:33.731049
+2025-04-03 13:20:11,952 - INFO - Processing card: testCardGroup.vcf
+2025-04-03 13:20:11,952 - INFO - File contents of testCardGroup.vcf:
+BEGIN:VCARD
+VERSION:4.0
+N:Doe;John;;;
+FN:John Doe
+ORG:Example.com Inc.;
+TITLE:Imaginary test person
+EMAIL;type=INTERNET;type=WORK;type=pref:johnDoe@example.org
+TEL;type=WORK;type=pref:+1 617 555 1212
+TEL;type=CELL:+1 781 555 1212
+TEL;type=HOME:+1 202 555 1212
+TEL;type=WORK:+1 (617) 555-1234
+item1.ADR;type=WORK:;;2 Example Avenue;Anytown;NY;01111;USA
+item1.X-ABADR:us
+item2.ADR;type=HOME;type=pref:;;3 Acacia Avenue;Newtown;MA;02222;USA
+item2.X-ABADR:us
+NOTE:John Doe has a long and varied history
+ , being documented on more police files that anyone else. Reports of his death are alas numerous.
+item3.URL;type=pref:http://www.example/com/doe
+item3.X-ABLabel:_$!<HomePage>!$_
+item4.URL:http://www.example.com/Joe/foaf.df
+item4.X-ABLabel:FOAF
+item5.X-ABRELATEDNAMES;type=pref:Jane Doe
+item5.X-ABLabel:_$!<Friend>!$_
+CATEGORIES:Work,Test group
+END:VCARD
+
+2025-04-03 13:20:11,952 - INFO - Successfully created card for testCardGroup.vcf
+2025-04-03 13:20:11,952 - ERROR - Card validation failed for testCardGroup.vcf: Invalid property (code 3)
+2025-04-03 13:20:11,952 - INFO - Found vCard file: testCardNoVersion.vcf
+2025-04-03 13:20:11,952 - INFO - File details for testCardNoVersion.vcf:
+2025-04-03 13:20:11,952 - INFO -   Size: 44 bytes
+2025-04-03 13:20:11,952 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,952 - INFO -   Modified: 2025-03-28 12:15:51.625049
+2025-04-03 13:20:11,952 - INFO - Processing card: testCardNoVersion.vcf
+2025-04-03 13:20:11,952 - INFO - File contents of testCardNoVersion.vcf:
+BEGIN:VCARD
+FN:Simon Perreault
+END:VCARD
+
+2025-04-03 13:20:11,952 - ERROR - Failed to create card testCardNoVersion.vcf: Invalid card format (code 2)
+2025-04-03 13:20:11,952 - INFO - Found vCard file: testCard-BdayTime.vcf
+2025-04-03 13:20:11,952 - INFO - File details for testCard-BdayTime.vcf:
+2025-04-03 13:20:11,952 - INFO -   Size: 71 bytes
+2025-04-03 13:20:11,952 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,952 - INFO -   Modified: 2025-03-28 12:15:32.684049
+2025-04-03 13:20:11,952 - INFO - Card testCard-BdayTime.vcf unchanged, using cached version
+2025-04-03 13:20:11,952 - INFO - Found vCard file: testCardProps-simpleVal.vcf
+2025-04-03 13:20:11,952 - INFO - File details for testCardProps-simpleVal.vcf:
+2025-04-03 13:20:11,952 - INFO -   Size: 81 bytes
+2025-04-03 13:20:11,952 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,952 - INFO -   Modified: 2025-03-28 12:15:33.163049
+2025-04-03 13:20:11,952 - INFO - Card testCardProps-simpleVal.vcf unchanged, using cached version
+2025-04-03 13:20:11,952 - INFO - Found vCard file: testCard-BdayText.vcf
+2025-04-03 13:20:11,952 - INFO - File details for testCard-BdayText.vcf:
+2025-04-03 13:20:11,952 - INFO -   Size: 85 bytes
+2025-04-03 13:20:11,952 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,952 - INFO -   Modified: 2025-03-28 12:15:33.772049
+2025-04-03 13:20:11,952 - INFO - Card testCard-BdayText.vcf unchanged, using cached version
+2025-04-03 13:20:11,952 - INFO - Found vCard file: testCardProp-ParamsVals.vcf
+2025-04-03 13:20:11,952 - INFO - File details for testCardProp-ParamsVals.vcf:
+2025-04-03 13:20:11,952 - INFO -   Size: 125 bytes
+2025-04-03 13:20:11,952 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,952 - INFO -   Modified: 2025-03-28 12:15:33.041049
+2025-04-03 13:20:11,952 - INFO - Card testCardProp-ParamsVals.vcf unchanged, using cached version
+2025-04-03 13:20:11,952 - INFO - Found vCard file: nnnn.vcf
+2025-04-03 13:20:11,952 - INFO - File details for nnnn.vcf:
+2025-04-03 13:20:11,952 - INFO -   Size: 47 bytes
+2025-04-03 13:20:11,952 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,952 - INFO -   Modified: 2025-03-28 12:28:54.030319
+2025-04-03 13:20:11,952 - INFO - Card nnnn.vcf unchanged, using cached version
+2025-04-03 13:20:11,952 - INFO - Found vCard file: testCard-bothDT.vcf
+2025-04-03 13:20:11,952 - INFO - File details for testCard-bothDT.vcf:
+2025-04-03 13:20:11,952 - INFO -   Size: 108 bytes
+2025-04-03 13:20:11,952 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,952 - INFO -   Modified: 2025-03-28 12:15:33.095049
+2025-04-03 13:20:11,952 - INFO - Card testCard-bothDT.vcf unchanged, using cached version
+2025-04-03 13:20:11,952 - INFO - Found vCard file: testCard.vcf
+2025-04-03 13:20:11,952 - INFO - File details for testCard.vcf:
+2025-04-03 13:20:11,952 - INFO -   Size: 613 bytes
+2025-04-03 13:20:11,952 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,952 - INFO -   Modified: 2025-03-28 12:15:33.945049
+2025-04-03 13:20:11,952 - INFO - Processing card: testCard.vcf
+2025-04-03 13:20:11,952 - INFO - File contents of testCard.vcf:
+BEGIN:VCARD
+VERSION:4.0
+FN:Simon Perreault
+N:Perreault;Simon;;;ing. jr,M.Sc.
+BDAY:--0203
+ANNIVERSARY:20090808T143000
+GENDER:M
+LANG;PREF=1:fr
+LANG;PREF=2:en
+ORG;TYPE=work:Viagenie
+ADR;TYPE=work:;Suite D2-630;2875 Laurier;
+ Quebec;QC;G1V 2M2;Canada
+TEL;VALUE=uri;TYPE="work,voice";PREF=1:tel:+1-418-656-9254;ext=102
+TEL;VALUE=uri;TYPE="work,cell,voice,video,text":tel:+1-418-262-6501
+EMAIL;TYPE=work:simon.perreault@viagenie.ca
+GEO;TYPE=work:geo:46.772673,-71.282945
+KEY;TYPE=work;VALUE=uri:
+ http://www.viagenie.ca/simon.perreault/simon.asc
+TZ:-0500
+URL;TYPE=home:http://nomis80.org
+END:VCARD
+
+2025-04-03 13:20:11,952 - INFO - Successfully created card for testCard.vcf
+2025-04-03 13:20:11,952 - ERROR - Card validation failed for testCard.vcf: Invalid property (code 3)
+2025-04-03 13:20:11,952 - INFO - Found vCard file: testCardProps-compVal.vcf
+2025-04-03 13:20:11,952 - INFO - File details for testCardProps-compVal.vcf:
+2025-04-03 13:20:11,952 - INFO -   Size: 179 bytes
+2025-04-03 13:20:11,952 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,952 - INFO -   Modified: 2025-03-28 12:15:32.410049
+2025-04-03 13:20:11,952 - INFO - Card testCardProps-compVal.vcf unchanged, using cached version
+2025-04-03 13:20:11,952 - INFO - Found vCard file: testCard-SimpleFold1.vcf
+2025-04-03 13:20:11,952 - INFO - File details for testCard-SimpleFold1.vcf:
+2025-04-03 13:20:11,952 - INFO -   Size: 60 bytes
+2025-04-03 13:20:11,952 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,952 - INFO -   Modified: 2025-03-28 12:15:33.623049
+2025-04-03 13:20:11,952 - INFO - Card testCard-SimpleFold1.vcf unchanged, using cached version
+2025-04-03 13:20:11,952 - INFO - Found vCard file: testCard-MoreFold.vcf
+2025-04-03 13:20:11,952 - INFO - File details for testCard-MoreFold.vcf:
+2025-04-03 13:20:11,952 - INFO -   Size: 204 bytes
+2025-04-03 13:20:11,952 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,952 - INFO -   Modified: 2025-03-28 12:15:32.510049
+2025-04-03 13:20:11,952 - INFO - Processing card: testCard-MoreFold.vcf
+2025-04-03 13:20:11,952 - INFO - File contents of testCard-MoreFold.vcf:
+BEGIN:VCARD
+VERSION:4.0
+FN:Simon Perreault
+ADR;TYPE=work:;Suite D2-630;2875 Laurier;
+ Quebec;QC;G1V 2M2;Canada
+KEY;TYPE=work;VALUE=uri:
+ http://www.viagenie.ca/simon.perreault/simon.asc
+END:VCARD
+
+2025-04-03 13:20:11,952 - INFO - Successfully created card for testCard-MoreFold.vcf
+2025-04-03 13:20:11,952 - ERROR - Card validation failed for testCard-MoreFold.vcf: Invalid property (code 3)
+2025-04-03 13:20:11,953 - INFO - Found vCard file: testCard-AnnUTC.vcf
+2025-04-03 13:20:11,953 - INFO - File details for testCard-AnnUTC.vcf:
+2025-04-03 13:20:11,953 - INFO -   Size: 87 bytes
+2025-04-03 13:20:11,953 - INFO -   Permissions: 0o100644
+2025-04-03 13:20:11,953 - INFO -   Modified: 2025-03-28 12:15:33.475049
+2025-04-03 13:20:11,953 - INFO - Processing card: testCard-AnnUTC.vcf
+2025-04-03 13:20:11,953 - INFO - File contents of testCard-AnnUTC.vcf:
+BEGIN:VCARD
+VERSION:4.0
+FN:Simon Perreault
+ANNIVERSARY:20090808T143000Z
+END:VCARD
+
+2025-04-03 13:20:11,953 - INFO - Successfully created card for testCard-AnnUTC.vcf
+2025-04-03 13:20:11,953 - ERROR - Card validation failed for testCard-AnnUTC.vcf: Invalid date/time (code 4)
+2025-04-03 13:20:11,953 - INFO - Current cache state:
+2025-04-03 13:20:11,953 - INFO -   testCardN-compVal.vcf: last_modified=2025-03-28 12:15:33.366049
+2025-04-03 13:20:11,953 - INFO -   testCardProps-Groups.vcf: last_modified=2025-03-28 12:15:34.011049
+2025-04-03 13:20:11,953 - INFO -   testCardProp-Param.vcf: last_modified=2025-03-28 12:15:33.316049
+2025-04-03 13:20:11,953 - INFO -   testCardProp-simpleVal.vcf: last_modified=2025-03-28 12:15:34.107049
+2025-04-03 13:20:11,953 - INFO -   testCard-SimpleFold2.vcf: last_modified=2025-03-28 12:15:33.214049
+2025-04-03 13:20:11,953 - INFO -   testCardMin.vcf: last_modified=2025-03-28 12:15:33.562049
+2025-04-03 13:20:11,953 - INFO -   mmmm.vcf: last_modified=2025-03-28 12:18:48.658144
+2025-04-03 13:20:11,953 - INFO -   testCard-Ann.vcf: last_modified=2025-03-28 12:15:32.944049
+2025-04-03 13:20:11,953 - INFO -   testCardProps-Params.vcf: last_modified=2025-03-28 12:15:32.591049
+2025-04-03 13:20:11,953 - INFO -   testCard-BdayTime.vcf: last_modified=2025-03-28 12:15:32.684049
+2025-04-03 13:20:11,953 - INFO -   testCardProps-simpleVal.vcf: last_modified=2025-03-28 12:15:33.163049
+2025-04-03 13:20:11,953 - INFO -   testCard-BdayText.vcf: last_modified=2025-03-28 12:15:33.772049
+2025-04-03 13:20:11,953 - INFO -   testCardProp-ParamsVals.vcf: last_modified=2025-03-28 12:15:33.041049
+2025-04-03 13:20:11,953 - INFO -   nnnn.vcf: last_modified=2025-03-28 12:28:54.030319
+2025-04-03 13:20:11,953 - INFO -   testCard-bothDT.vcf: last_modified=2025-03-28 12:15:33.095049
+2025-04-03 13:20:11,953 - INFO -   testCardProps-compVal.vcf: last_modified=2025-03-28 12:15:32.410049
+2025-04-03 13:20:11,953 - INFO -   testCard-SimpleFold1.vcf: last_modified=2025-03-28 12:15:33.623049
+2025-04-03 13:20:11,953 - INFO - Card cache refresh complete. Valid cards: ['testCardN-compVal.vcf', 'testCardProps-Groups.vcf', 'testCardProp-Param.vcf', 'testCardProp-simpleVal.vcf', 'testCard-SimpleFold2.vcf', 'testCardMin.vcf', 'mmmm.vcf', 'testCard-Ann.vcf', 'testCardProps-Params.vcf', 'testCard-BdayTime.vcf', 'testCardProps-simpleVal.vcf', 'testCard-BdayText.vcf', 'testCardProp-ParamsVals.vcf', 'nnnn.vcf', 'testCard-bothDT.vcf', 'testCardProps-compVal.vcf', 'testCard-SimpleFold1.vcf']
+2025-04-03 13:20:11,953 - INFO - Found 17 valid vCard files
+2025-04-03 13:20:11,953 - DEBUG - Updating: filename
+2025-04-03 13:20:11,953 - DEBUG - Form field changed
+2025-04-03 13:20:11,953 - DEBUG - Updating: contact_name
+2025-04-03 13:20:11,953 - DEBUG - Form field changed
+2025-04-03 13:20:11,953 - DEBUG - Updating: None
+2025-04-03 13:20:11,953 - DEBUG - Updating: None
+2025-04-03 13:20:11,953 - DEBUG - Updating: None
+2025-04-03 13:20:11,953 - DEBUG - Updating: None
+2025-04-03 13:20:11,953 - DEBUG - Updating: None
+2025-04-03 13:20:11,953 - DEBUG - Updating: None
+2025-04-03 13:20:11,953 - DEBUG - Updating: None
+2025-04-03 13:20:11,953 - DEBUG - Updating: filename
+2025-04-03 13:20:11,953 - DEBUG - Updating: contact_name
+2025-04-03 13:20:11,953 - DEBUG - Form field changed
+2025-04-03 13:20:11,953 - DEBUG - Updating: birthday
+2025-04-03 13:20:11,953 - DEBUG - Updating: anniversary
+2025-04-03 13:20:11,953 - DEBUG - Updating: other_props
+2025-04-03 13:20:11,953 - DEBUG - Updating: None
+2025-04-03 13:20:11,953 - DEBUG - Updating: None
+2025-04-03 13:20:11,953 - DEBUG - Updating: None
+2025-04-03 13:20:11,953 - DEBUG - Updating: None
+2025-04-03 13:20:11,954 - DEBUG - Updating: None
+2025-04-03 13:20:11,954 - DEBUG - Updating: None
+2025-04-03 13:20:11,954 - DEBUG - Updating: username
+2025-04-03 13:20:11,954 - DEBUG - Updating: password
+2025-04-03 13:20:11,954 - DEBUG - Updating: database
+2025-04-03 13:20:11,954 - DEBUG - Updating: None
+2025-04-03 13:20:11,954 - DEBUG - Updating: None
+2025-04-03 13:20:11,954 - DEBUG - Updating: None
+2025-04-03 13:20:11,954 - DEBUG - Updating: None
+2025-04-03 13:20:11,954 - DEBUG - Updating: None
+2025-04-03 13:20:11,954 - DEBUG - Updating: None
+2025-04-03 13:20:11,954 - DEBUG - Updating: username
+2025-04-03 13:20:11,954 - DEBUG - Updating: password
+2025-04-03 13:20:11,954 - DEBUG - Updating: database
+2025-04-03 13:20:11,954 - DEBUG - Updating: None
+2025-04-03 13:20:11,954 - DEBUG - Widget blur: <asciimatics.widgets.label.Label object at 0xffff9675b850>
+2025-04-03 13:20:11,954 - DEBUG - Widget blur: <asciimatics.widgets.label.Label object at 0xffff9675b920>
+2025-04-03 13:20:11,954 - DEBUG - Widget blur: <asciimatics.widgets.text.Text object at 0xffff973eb790>
+2025-04-03 13:20:11,954 - DEBUG - Widget blur: <asciimatics.widgets.text.Text object at 0xffff9748f4c0>
+2025-04-03 13:20:11,954 - DEBUG - Widget blur: <asciimatics.widgets.text.Text object at 0xffff9748f2e0>
+2025-04-03 13:20:11,954 - DEBUG - Widget blur: <asciimatics.widgets.label.Label object at 0xffff9675b9f0>
+2025-04-03 13:20:11,954 - DEBUG - Blur: <asciimatics.widgets.layout.Layout object at 0xffff96753940>
+2025-04-03 13:20:11,954 - DEBUG - Updating: None
+2025-04-03 13:20:11,954 - DEBUG - Updating: None
+2025-04-03 13:20:11,954 - DEBUG - Widget blur: <asciimatics.widgets.button.Button object at 0xffff96780580>
+2025-04-03 13:20:11,954 - DEBUG - Widget blur: <asciimatics.widgets.button.Button object at 0xffff96780660>
+2025-04-03 13:20:11,954 - DEBUG - Blur: <asciimatics.widgets.layout.Layout object at 0xffff967539a0>
+2025-04-03 13:20:11,954 - DEBUG - Updating: None
+2025-04-03 13:20:11,954 - DEBUG - Widget blur: <asciimatics.widgets.label.Label object at 0xffff9675b510>
+2025-04-03 13:20:11,954 - DEBUG - Blur: <asciimatics.widgets.layout.Layout object at 0xffff96753a00>
+2025-04-03 13:20:11,954 - DEBUG - Focus: <asciimatics.widgets.layout.Layout object at 0xffff96753940>
+2025-04-03 13:20:11,954 - DEBUG - Widget focus: <asciimatics.widgets.text.Text object at 0xffff973eb790>
+2025-04-03 13:20:11,954 - DEBUG - Cloning: Login to Database
+2025-04-03 13:20:11,954 - DEBUG - Updating: None
+2025-04-03 13:20:11,954 - DEBUG - Updating: None
+2025-04-03 13:20:11,954 - DEBUG - Updating: username
+2025-04-03 13:20:11,954 - DEBUG - Updating: password
+2025-04-03 13:20:11,954 - DEBUG - Updating: database
+2025-04-03 13:20:11,954 - DEBUG - Updating: None
+2025-04-03 13:20:11,954 - DEBUG - Updating: None
+2025-04-03 13:20:11,954 - DEBUG - Updating: None
+2025-04-03 13:20:11,954 - DEBUG - Updating: None
+2025-04-03 13:20:11,954 - DEBUG - Updating: None
+2025-04-03 13:20:11,954 - DEBUG - Updating: None
+2025-04-03 13:20:11,954 - DEBUG - Updating: username
+2025-04-03 13:20:11,954 - DEBUG - Updating: password
+2025-04-03 13:20:11,954 - DEBUG - Updating: database
+2025-04-03 13:20:11,954 - DEBUG - Updating: None
+2025-04-03 13:20:11,954 - DEBUG - Updating: None
+2025-04-03 13:20:11,954 - DEBUG - Updating: None
+2025-04-03 13:20:11,954 - DEBUG - Updating: None
+2025-04-03 13:20:13,031 - DEBUG - Processing key: 6d
+2025-04-03 13:20:13,031 - DEBUG - Returning key: 6d
+2025-04-03 13:20:13,031 - DEBUG - New event: KeyboardEvent: 109
+2025-04-03 13:20:13,031 - DEBUG - Focus: <asciimatics.widgets.layout.Layout object at 0xffff96753940>
+2025-04-03 13:20:13,031 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753940> KeyboardEvent: 109
+2025-04-03 13:20:13,031 - DEBUG - Current widget left event: None
+2025-04-03 13:20:13,184 - DEBUG - Processing key: 72
+2025-04-03 13:20:13,184 - DEBUG - Returning key: 72
+2025-04-03 13:20:13,184 - DEBUG - New event: KeyboardEvent: 114
+2025-04-03 13:20:13,184 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753940> KeyboardEvent: 114
+2025-04-03 13:20:13,184 - DEBUG - Current widget left event: None
+2025-04-03 13:20:13,290 - DEBUG - Processing key: 61
+2025-04-03 13:20:13,290 - DEBUG - Returning key: 61
+2025-04-03 13:20:13,290 - DEBUG - New event: KeyboardEvent: 97
+2025-04-03 13:20:13,290 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753940> KeyboardEvent: 97
+2025-04-03 13:20:13,290 - DEBUG - Current widget left event: None
+2025-04-03 13:20:13,447 - DEBUG - Processing key: 73
+2025-04-03 13:20:13,448 - DEBUG - Returning key: 73
+2025-04-03 13:20:13,448 - DEBUG - New event: KeyboardEvent: 115
+2025-04-03 13:20:13,448 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753940> KeyboardEvent: 115
+2025-04-03 13:20:13,448 - DEBUG - Current widget left event: None
+2025-04-03 13:20:13,608 - DEBUG - Processing key: 68
+2025-04-03 13:20:13,608 - DEBUG - Returning key: 68
+2025-04-03 13:20:13,608 - DEBUG - New event: KeyboardEvent: 104
+2025-04-03 13:20:13,608 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753940> KeyboardEvent: 104
+2025-04-03 13:20:13,608 - DEBUG - Current widget left event: None
+2025-04-03 13:20:13,763 - DEBUG - Processing key: 61
+2025-04-03 13:20:13,763 - DEBUG - Returning key: 61
+2025-04-03 13:20:13,764 - DEBUG - New event: KeyboardEvent: 97
+2025-04-03 13:20:13,764 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753940> KeyboardEvent: 97
+2025-04-03 13:20:13,764 - DEBUG - Current widget left event: None
+2025-04-03 13:20:13,874 - DEBUG - Processing key: 68
+2025-04-03 13:20:13,874 - DEBUG - Returning key: 68
+2025-04-03 13:20:13,874 - DEBUG - New event: KeyboardEvent: 104
+2025-04-03 13:20:13,874 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753940> KeyboardEvent: 104
+2025-04-03 13:20:13,875 - DEBUG - Current widget left event: None
+2025-04-03 13:20:14,035 - DEBUG - Processing key: 6d
+2025-04-03 13:20:14,036 - DEBUG - Returning key: 6d
+2025-04-03 13:20:14,036 - DEBUG - New event: KeyboardEvent: 109
+2025-04-03 13:20:14,036 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753940> KeyboardEvent: 109
+2025-04-03 13:20:14,036 - DEBUG - Current widget left event: None
+2025-04-03 13:20:14,140 - DEBUG - Processing key: 9
+2025-04-03 13:20:14,141 - DEBUG - Returning key: 9
+2025-04-03 13:20:14,141 - DEBUG - New event: KeyboardEvent: -301
+2025-04-03 13:20:14,141 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753940> KeyboardEvent: -301
+2025-04-03 13:20:14,141 - DEBUG - Widget blur: <asciimatics.widgets.text.Text object at 0xffff973eb790>
+2025-04-03 13:20:14,141 - DEBUG - Widget focus: <asciimatics.widgets.text.Text object at 0xffff9748f4c0>
+2025-04-03 13:20:14,141 - DEBUG - Current widget left event: None
+2025-04-03 13:20:14,829 - DEBUG - Processing key: 31
+2025-04-03 13:20:14,830 - DEBUG - Returning key: 31
+2025-04-03 13:20:14,830 - DEBUG - New event: KeyboardEvent: 49
+2025-04-03 13:20:14,830 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753940> KeyboardEvent: 49
+2025-04-03 13:20:14,830 - DEBUG - Current widget left event: None
+2025-04-03 13:20:15,091 - DEBUG - Processing key: 32
+2025-04-03 13:20:15,091 - DEBUG - Returning key: 32
+2025-04-03 13:20:15,091 - DEBUG - New event: KeyboardEvent: 50
+2025-04-03 13:20:15,091 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753940> KeyboardEvent: 50
+2025-04-03 13:20:15,091 - DEBUG - Current widget left event: None
+2025-04-03 13:20:16,376 - DEBUG - Processing key: 35
+2025-04-03 13:20:16,376 - DEBUG - Returning key: 35
+2025-04-03 13:20:16,376 - DEBUG - New event: KeyboardEvent: 53
+2025-04-03 13:20:16,376 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753940> KeyboardEvent: 53
+2025-04-03 13:20:16,376 - DEBUG - Current widget left event: None
+2025-04-03 13:20:16,854 - DEBUG - Processing key: 107
+2025-04-03 13:20:16,855 - DEBUG - Returning key: 107
+2025-04-03 13:20:16,856 - DEBUG - New event: KeyboardEvent: -300
+2025-04-03 13:20:16,856 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753940> KeyboardEvent: -300
+2025-04-03 13:20:16,856 - DEBUG - Current widget left event: None
+2025-04-03 13:20:17,433 - DEBUG - Processing key: 107
+2025-04-03 13:20:17,433 - DEBUG - Returning key: 107
+2025-04-03 13:20:17,434 - DEBUG - New event: KeyboardEvent: -300
+2025-04-03 13:20:17,434 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753940> KeyboardEvent: -300
+2025-04-03 13:20:17,435 - DEBUG - Current widget left event: None
+2025-04-03 13:20:17,589 - DEBUG - Processing key: 107
+2025-04-03 13:20:17,590 - DEBUG - Returning key: 107
+2025-04-03 13:20:17,590 - DEBUG - New event: KeyboardEvent: -300
+2025-04-03 13:20:17,590 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753940> KeyboardEvent: -300
+2025-04-03 13:20:17,590 - DEBUG - Current widget left event: None
+2025-04-03 13:20:17,808 - DEBUG - Processing key: 31
+2025-04-03 13:20:17,809 - DEBUG - Returning key: 31
+2025-04-03 13:20:17,809 - DEBUG - New event: KeyboardEvent: 49
+2025-04-03 13:20:17,809 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753940> KeyboardEvent: 49
+2025-04-03 13:20:17,809 - DEBUG - Current widget left event: None
+2025-04-03 13:20:18,209 - DEBUG - Processing key: 32
+2025-04-03 13:20:18,209 - DEBUG - Returning key: 32
+2025-04-03 13:20:18,209 - DEBUG - New event: KeyboardEvent: 50
+2025-04-03 13:20:18,210 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753940> KeyboardEvent: 50
+2025-04-03 13:20:18,210 - DEBUG - Current widget left event: None
+2025-04-03 13:20:18,598 - DEBUG - Processing key: 35
+2025-04-03 13:20:18,598 - DEBUG - Returning key: 35
+2025-04-03 13:20:18,598 - DEBUG - New event: KeyboardEvent: 53
+2025-04-03 13:20:18,598 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753940> KeyboardEvent: 53
+2025-04-03 13:20:18,599 - DEBUG - Current widget left event: None
+2025-04-03 13:20:18,872 - DEBUG - Processing key: 30
+2025-04-03 13:20:18,872 - DEBUG - Returning key: 30
+2025-04-03 13:20:18,872 - DEBUG - New event: KeyboardEvent: 48
+2025-04-03 13:20:18,872 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753940> KeyboardEvent: 48
+2025-04-03 13:20:18,873 - DEBUG - Current widget left event: None
+2025-04-03 13:20:19,085 - DEBUG - Processing key: 34
+2025-04-03 13:20:19,085 - DEBUG - Returning key: 34
+2025-04-03 13:20:19,085 - DEBUG - New event: KeyboardEvent: 52
+2025-04-03 13:20:19,085 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753940> KeyboardEvent: 52
+2025-04-03 13:20:19,085 - DEBUG - Current widget left event: None
+2025-04-03 13:20:19,289 - DEBUG - Processing key: 35
+2025-04-03 13:20:19,289 - DEBUG - Returning key: 35
+2025-04-03 13:20:19,289 - DEBUG - New event: KeyboardEvent: 53
+2025-04-03 13:20:19,289 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753940> KeyboardEvent: 53
+2025-04-03 13:20:19,289 - DEBUG - Current widget left event: None
+2025-04-03 13:20:19,447 - DEBUG - Processing key: 39
+2025-04-03 13:20:19,447 - DEBUG - Returning key: 39
+2025-04-03 13:20:19,447 - DEBUG - New event: KeyboardEvent: 57
+2025-04-03 13:20:19,447 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753940> KeyboardEvent: 57
+2025-04-03 13:20:19,447 - DEBUG - Current widget left event: None
+2025-04-03 13:20:19,717 - DEBUG - Processing key: 9
+2025-04-03 13:20:19,718 - DEBUG - Returning key: 9
+2025-04-03 13:20:19,718 - DEBUG - New event: KeyboardEvent: -301
+2025-04-03 13:20:19,718 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753940> KeyboardEvent: -301
+2025-04-03 13:20:19,718 - DEBUG - Widget blur: <asciimatics.widgets.text.Text object at 0xffff9748f4c0>
+2025-04-03 13:20:19,718 - DEBUG - Widget focus: <asciimatics.widgets.text.Text object at 0xffff9748f2e0>
+2025-04-03 13:20:19,718 - DEBUG - Current widget left event: None
+2025-04-03 13:20:20,618 - DEBUG - Processing key: 6d
+2025-04-03 13:20:20,618 - DEBUG - Returning key: 6d
+2025-04-03 13:20:20,618 - DEBUG - New event: KeyboardEvent: 109
+2025-04-03 13:20:20,618 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753940> KeyboardEvent: 109
+2025-04-03 13:20:20,618 - DEBUG - Current widget left event: None
+2025-04-03 13:20:20,776 - DEBUG - Processing key: 72
+2025-04-03 13:20:20,777 - DEBUG - Returning key: 72
+2025-04-03 13:20:20,777 - DEBUG - New event: KeyboardEvent: 114
+2025-04-03 13:20:20,777 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753940> KeyboardEvent: 114
+2025-04-03 13:20:20,777 - DEBUG - Current widget left event: None
+2025-04-03 13:20:20,939 - DEBUG - Processing key: 61
+2025-04-03 13:20:20,939 - DEBUG - Returning key: 61
+2025-04-03 13:20:20,940 - DEBUG - New event: KeyboardEvent: 97
+2025-04-03 13:20:20,940 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753940> KeyboardEvent: 97
+2025-04-03 13:20:20,940 - DEBUG - Current widget left event: None
+2025-04-03 13:20:21,104 - DEBUG - Processing key: 73
+2025-04-03 13:20:21,104 - DEBUG - Returning key: 73
+2025-04-03 13:20:21,105 - DEBUG - New event: KeyboardEvent: 115
+2025-04-03 13:20:21,105 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753940> KeyboardEvent: 115
+2025-04-03 13:20:21,105 - DEBUG - Current widget left event: None
+2025-04-03 13:20:21,311 - DEBUG - Processing key: 68
+2025-04-03 13:20:21,311 - DEBUG - Returning key: 68
+2025-04-03 13:20:21,311 - DEBUG - New event: KeyboardEvent: 104
+2025-04-03 13:20:21,311 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753940> KeyboardEvent: 104
+2025-04-03 13:20:21,311 - DEBUG - Current widget left event: None
+2025-04-03 13:20:21,468 - DEBUG - Processing key: 61
+2025-04-03 13:20:21,468 - DEBUG - Returning key: 61
+2025-04-03 13:20:21,468 - DEBUG - New event: KeyboardEvent: 97
+2025-04-03 13:20:21,468 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753940> KeyboardEvent: 97
+2025-04-03 13:20:21,468 - DEBUG - Current widget left event: None
+2025-04-03 13:20:21,519 - DEBUG - Processing key: 68
+2025-04-03 13:20:21,519 - DEBUG - Returning key: 68
+2025-04-03 13:20:21,519 - DEBUG - New event: KeyboardEvent: 104
+2025-04-03 13:20:21,519 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753940> KeyboardEvent: 104
+2025-04-03 13:20:21,519 - DEBUG - Current widget left event: None
+2025-04-03 13:20:21,789 - DEBUG - Processing key: 6d
+2025-04-03 13:20:21,790 - DEBUG - Returning key: 6d
+2025-04-03 13:20:21,790 - DEBUG - New event: KeyboardEvent: 109
+2025-04-03 13:20:21,790 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753940> KeyboardEvent: 109
+2025-04-03 13:20:21,790 - DEBUG - Current widget left event: None
+2025-04-03 13:20:22,211 - DEBUG - Processing key: 9
+2025-04-03 13:20:22,211 - DEBUG - Returning key: 9
+2025-04-03 13:20:22,211 - DEBUG - New event: KeyboardEvent: -301
+2025-04-03 13:20:22,211 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753940> KeyboardEvent: -301
+2025-04-03 13:20:22,212 - DEBUG - Widget blur: <asciimatics.widgets.text.Text object at 0xffff9748f2e0>
+2025-04-03 13:20:22,212 - DEBUG - Current widget left event: KeyboardEvent: -301
+2025-04-03 13:20:22,212 - DEBUG - Blur: <asciimatics.widgets.layout.Layout object at 0xffff96753940>
+2025-04-03 13:20:22,212 - DEBUG - Widget blur: <asciimatics.widgets.text.Text object at 0xffff973eb790>
+2025-04-03 13:20:22,212 - DEBUG - Trying tab to layout 1
+2025-04-03 13:20:22,212 - DEBUG - Focus: <asciimatics.widgets.layout.Layout object at 0xffff967539a0>
+2025-04-03 13:20:22,212 - DEBUG - Widget focus: <asciimatics.widgets.button.Button object at 0xffff96780580>
+2025-04-03 13:20:22,740 - DEBUG - Processing key: a
+2025-04-03 13:20:22,740 - DEBUG - Returning key: a
+2025-04-03 13:20:22,741 - DEBUG - New event: KeyboardEvent: 10
+2025-04-03 13:20:22,741 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff967539a0> KeyboardEvent: 10
+2025-04-03 13:20:23,357 - DEBUG - Updating: files
+2025-04-03 13:20:23,358 - DEBUG - Updating: None
+2025-04-03 13:20:23,358 - DEBUG - Updating: None
+2025-04-03 13:20:23,358 - DEBUG - Updating: None
+2025-04-03 13:20:23,358 - DEBUG - Updating: None
+2025-04-03 13:20:23,358 - DEBUG - Updating: None
+2025-04-03 13:20:23,358 - DEBUG - Updating: files
+2025-04-03 13:20:23,358 - DEBUG - Widget blur: <asciimatics.widgets.listbox.ListBox object at 0xffff96754c30>
+2025-04-03 13:20:23,359 - DEBUG - Blur: <asciimatics.widgets.layout.Layout object at 0xffff96753ac0>
+2025-04-03 13:20:23,359 - DEBUG - Updating: None
+2025-04-03 13:20:23,359 - DEBUG - Updating: None
+2025-04-03 13:20:23,359 - DEBUG - Updating: None
+2025-04-03 13:20:23,359 - DEBUG - Updating: None
+2025-04-03 13:20:23,359 - DEBUG - Widget blur: <asciimatics.widgets.button.Button object at 0xffff96780740>
+2025-04-03 13:20:23,359 - DEBUG - Widget blur: <asciimatics.widgets.button.Button object at 0xffff96780820>
+2025-04-03 13:20:23,359 - DEBUG - Widget blur: <asciimatics.widgets.button.Button object at 0xffff96780900>
+2025-04-03 13:20:23,359 - DEBUG - Widget blur: <asciimatics.widgets.button.Button object at 0xffff967809e0>
+2025-04-03 13:20:23,359 - DEBUG - Blur: <asciimatics.widgets.layout.Layout object at 0xffff96753b20>
+2025-04-03 13:20:23,359 - DEBUG - Updating: None
+2025-04-03 13:20:23,359 - DEBUG - Widget blur: <asciimatics.widgets.label.Label object at 0xffff9675bac0>
+2025-04-03 13:20:23,359 - DEBUG - Blur: <asciimatics.widgets.layout.Layout object at 0xffff96753a60>
+2025-04-03 13:20:23,359 - DEBUG - Focus: <asciimatics.widgets.layout.Layout object at 0xffff96753ac0>
+2025-04-03 13:20:23,359 - DEBUG - Widget focus: <asciimatics.widgets.listbox.ListBox object at 0xffff96754c30>
+2025-04-03 13:20:24,945 - DEBUG - New event: MouseEvent (61, 17) 1
+2025-04-03 13:20:24,945 - DEBUG - Focus: <asciimatics.widgets.layout.Layout object at 0xffff96753ac0>
+2025-04-03 13:20:24,945 - DEBUG - Blurring: [<__main__.MainView object at 0xffff9678fb10>]
+2025-04-03 13:20:24,945 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753ac0> MouseEvent (61, 17) 1
+2025-04-03 13:20:24,946 - DEBUG - Widget: <asciimatics.widgets.listbox.ListBox object at 0xffff96754c30> (1, 1) (95, 16)
+2025-04-03 13:20:24,946 - DEBUG - Check layout: 61, 17
+2025-04-03 13:20:24,946 - DEBUG - Widget: <asciimatics.widgets.listbox.ListBox object at 0xffff96754c30> (1, 1) (95, 16)
+2025-04-03 13:20:24,946 - DEBUG - Current widget left event: MouseEvent (61, 17) 1
+2025-04-03 13:20:24,946 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753ac0> MouseEvent (61, 17) 1
+2025-04-03 13:20:24,946 - DEBUG - Widget: <asciimatics.widgets.listbox.ListBox object at 0xffff96754c30> (1, 1) (95, 16)
+2025-04-03 13:20:24,946 - DEBUG - Check layout: 61, 17
+2025-04-03 13:20:24,946 - DEBUG - Widget: <asciimatics.widgets.listbox.ListBox object at 0xffff96754c30> (1, 1) (95, 16)
+2025-04-03 13:20:24,946 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753b20> MouseEvent (61, 17) 1
+2025-04-03 13:20:24,946 - DEBUG - Check layout: 61, 17
+2025-04-03 13:20:24,946 - DEBUG - Widget: <asciimatics.widgets.button.Button object at 0xffff96780740> (7, 17) (10, 1)
+2025-04-03 13:20:24,946 - DEBUG - Widget: <asciimatics.widgets.button.Button object at 0xffff96780820> (31, 17) (8, 1)
+2025-04-03 13:20:24,946 - DEBUG - Widget: <asciimatics.widgets.button.Button object at 0xffff96780900> (51, 17) (14, 1)
+2025-04-03 13:20:24,946 - DEBUG - Blur: <asciimatics.widgets.layout.Layout object at 0xffff96753ac0>
+2025-04-03 13:20:24,946 - DEBUG - Widget blur: <asciimatics.widgets.listbox.ListBox object at 0xffff96754c30>
+2025-04-03 13:20:24,946 - DEBUG - Focus: <asciimatics.widgets.layout.Layout object at 0xffff96753b20>
+2025-04-03 13:20:24,946 - DEBUG - Widget focus: <asciimatics.widgets.button.Button object at 0xffff96780900>
+2025-04-03 13:20:24,946 - DEBUG - Widget: <asciimatics.widgets.button.Button object at 0xffff96780900> (51, 17) (14, 1)
+2025-04-03 13:20:24,946 - DEBUG - Updating: results
+2025-04-03 13:20:24,946 - DEBUG - Updating: None
+2025-04-03 13:20:24,946 - DEBUG - Updating: None
+2025-04-03 13:20:24,946 - DEBUG - Updating: None
+2025-04-03 13:20:24,946 - DEBUG - Updating: None
+2025-04-03 13:20:24,946 - DEBUG - Updating: results
+2025-04-03 13:20:24,946 - DEBUG - Widget blur: <asciimatics.widgets.textbox.TextBox object at 0xffff96784160>
+2025-04-03 13:20:24,946 - DEBUG - Blur: <asciimatics.widgets.layout.Layout object at 0xffff96753e20>
+2025-04-03 13:20:24,946 - DEBUG - Updating: None
+2025-04-03 13:20:24,946 - DEBUG - Updating: None
+2025-04-03 13:20:24,946 - DEBUG - Updating: None
+2025-04-03 13:20:24,946 - DEBUG - Widget blur: <asciimatics.widgets.button.Button object at 0xffff96781a80>
+2025-04-03 13:20:24,946 - DEBUG - Widget blur: <asciimatics.widgets.button.Button object at 0xffff96781b60>
+2025-04-03 13:20:24,946 - DEBUG - Widget blur: <asciimatics.widgets.button.Button object at 0xffff96781c40>
+2025-04-03 13:20:24,946 - DEBUG - Blur: <asciimatics.widgets.layout.Layout object at 0xffff96753e80>
+2025-04-03 13:20:24,946 - DEBUG - Updating: None
+2025-04-03 13:20:24,946 - DEBUG - Widget blur: <asciimatics.widgets.label.Label object at 0xffff967b02b0>
+2025-04-03 13:20:24,946 - DEBUG - Blur: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0>
+2025-04-03 13:20:24,946 - DEBUG - Focus: <asciimatics.widgets.layout.Layout object at 0xffff96753e20>
+2025-04-03 13:20:24,946 - DEBUG - Widget focus: <asciimatics.widgets.textbox.TextBox object at 0xffff96784160>
+2025-04-03 13:20:24,946 - DEBUG - Cursor: 0,0
+2025-04-03 13:20:26,822 - DEBUG - New event: MouseEvent (23, 18) 1
+2025-04-03 13:20:26,823 - DEBUG - Focus: <asciimatics.widgets.layout.Layout object at 0xffff96753e20>
+2025-04-03 13:20:26,823 - DEBUG - Blurring: [<__main__.DBQueryView object at 0xffff967b4850>]
+2025-04-03 13:20:26,823 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (23, 18) 1
+2025-04-03 13:20:26,823 - DEBUG - Widget: <asciimatics.widgets.textbox.TextBox object at 0xffff96784160> (1, 1) (95, 16)
+2025-04-03 13:20:26,823 - DEBUG - Check layout: 23, 18
+2025-04-03 13:20:26,823 - DEBUG - Widget: <asciimatics.widgets.textbox.TextBox object at 0xffff96784160> (1, 1) (95, 16)
+2025-04-03 13:20:26,823 - DEBUG - Current widget left event: MouseEvent (23, 18) 1
+2025-04-03 13:20:26,823 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (23, 18) 1
+2025-04-03 13:20:26,823 - DEBUG - Widget: <asciimatics.widgets.textbox.TextBox object at 0xffff96784160> (1, 1) (95, 16)
+2025-04-03 13:20:26,823 - DEBUG - Check layout: 23, 18
+2025-04-03 13:20:26,823 - DEBUG - Widget: <asciimatics.widgets.textbox.TextBox object at 0xffff96784160> (1, 1) (95, 16)
+2025-04-03 13:20:26,823 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (23, 18) 1
+2025-04-03 13:20:26,823 - DEBUG - Check layout: 23, 18
+2025-04-03 13:20:26,823 - DEBUG - Widget: <asciimatics.widgets.button.Button object at 0xffff96781a80> (4, 17) (24, 1)
+2025-04-03 13:20:26,823 - DEBUG - Widget: <asciimatics.widgets.button.Button object at 0xffff96781b60> (32, 17) (30, 1)
+2025-04-03 13:20:26,823 - DEBUG - Widget: <asciimatics.widgets.button.Button object at 0xffff96781c40> (73, 17) (10, 1)
+2025-04-03 13:20:26,823 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (23, 18) 1
+2025-04-03 13:20:26,823 - DEBUG - Cursor: 0,0
+2025-04-03 13:20:27,573 - DEBUG - New event: MouseEvent (23, 17) 1
+2025-04-03 13:20:27,574 - DEBUG - Blurring: [<__main__.DBQueryView object at 0xffff967b4850>]
+2025-04-03 13:20:27,574 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (23, 17) 1
+2025-04-03 13:20:27,574 - DEBUG - Widget: <asciimatics.widgets.textbox.TextBox object at 0xffff96784160> (1, 1) (95, 16)
+2025-04-03 13:20:27,574 - DEBUG - Check layout: 23, 17
+2025-04-03 13:20:27,574 - DEBUG - Widget: <asciimatics.widgets.textbox.TextBox object at 0xffff96784160> (1, 1) (95, 16)
+2025-04-03 13:20:27,575 - DEBUG - Current widget left event: MouseEvent (23, 17) 1
+2025-04-03 13:20:27,575 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (23, 17) 1
+2025-04-03 13:20:27,575 - DEBUG - Widget: <asciimatics.widgets.textbox.TextBox object at 0xffff96784160> (1, 1) (95, 16)
+2025-04-03 13:20:27,575 - DEBUG - Check layout: 23, 17
+2025-04-03 13:20:27,575 - DEBUG - Widget: <asciimatics.widgets.textbox.TextBox object at 0xffff96784160> (1, 1) (95, 16)
+2025-04-03 13:20:27,575 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (23, 17) 1
+2025-04-03 13:20:27,575 - DEBUG - Check layout: 23, 17
+2025-04-03 13:20:27,575 - DEBUG - Widget: <asciimatics.widgets.button.Button object at 0xffff96781a80> (4, 17) (24, 1)
+2025-04-03 13:20:27,575 - DEBUG - Blur: <asciimatics.widgets.layout.Layout object at 0xffff96753e20>
+2025-04-03 13:20:27,575 - DEBUG - Widget blur: <asciimatics.widgets.textbox.TextBox object at 0xffff96784160>
+2025-04-03 13:20:27,575 - DEBUG - Focus: <asciimatics.widgets.layout.Layout object at 0xffff96753e80>
+2025-04-03 13:20:27,575 - DEBUG - Widget focus: <asciimatics.widgets.button.Button object at 0xffff96781a80>
+2025-04-03 13:20:27,575 - DEBUG - Widget: <asciimatics.widgets.button.Button object at 0xffff96781a80> (4, 17) (24, 1)
+2025-04-03 13:20:28,358 - DEBUG - New event: MouseEvent (35, 17) 1
+2025-04-03 13:20:28,358 - DEBUG - Blurring: [<__main__.DBQueryView object at 0xffff967b4850>]
+2025-04-03 13:20:28,358 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (35, 17) 1
+2025-04-03 13:20:28,358 - DEBUG - Widget: <asciimatics.widgets.button.Button object at 0xffff96781a80> (4, 17) (24, 1)
+2025-04-03 13:20:28,358 - DEBUG - Check layout: 35, 17
+2025-04-03 13:20:28,358 - DEBUG - Widget: <asciimatics.widgets.button.Button object at 0xffff96781a80> (4, 17) (24, 1)
+2025-04-03 13:20:28,359 - DEBUG - Widget: <asciimatics.widgets.button.Button object at 0xffff96781b60> (32, 17) (30, 1)
+2025-04-03 13:20:28,359 - DEBUG - Blur: <asciimatics.widgets.layout.Layout object at 0xffff96753e80>
+2025-04-03 13:20:28,359 - DEBUG - Widget blur: <asciimatics.widgets.button.Button object at 0xffff96781a80>
+2025-04-03 13:20:28,359 - DEBUG - Focus: <asciimatics.widgets.layout.Layout object at 0xffff96753e80>
+2025-04-03 13:20:28,359 - DEBUG - Widget focus: <asciimatics.widgets.button.Button object at 0xffff96781b60>
+2025-04-03 13:20:28,359 - DEBUG - Widget: <asciimatics.widgets.button.Button object at 0xffff96781b60> (32, 17) (30, 1)
+2025-04-03 13:20:28,617 - DEBUG - Current widget left event: None
+2025-04-03 13:20:29,259 - DEBUG - New event: MouseEvent (24, 17) 1
+2025-04-03 13:20:29,259 - DEBUG - Blurring: [<__main__.DBQueryView object at 0xffff967b4850>]
+2025-04-03 13:20:29,260 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (24, 17) 1
+2025-04-03 13:20:29,260 - DEBUG - Widget: <asciimatics.widgets.button.Button object at 0xffff96781b60> (32, 17) (30, 1)
+2025-04-03 13:20:29,260 - DEBUG - Check layout: 24, 17
+2025-04-03 13:20:29,260 - DEBUG - Widget: <asciimatics.widgets.button.Button object at 0xffff96781a80> (4, 17) (24, 1)
+2025-04-03 13:20:29,260 - DEBUG - Blur: <asciimatics.widgets.layout.Layout object at 0xffff96753e80>
+2025-04-03 13:20:29,260 - DEBUG - Widget blur: <asciimatics.widgets.button.Button object at 0xffff96781b60>
+2025-04-03 13:20:29,260 - DEBUG - Focus: <asciimatics.widgets.layout.Layout object at 0xffff96753e80>
+2025-04-03 13:20:29,260 - DEBUG - Widget focus: <asciimatics.widgets.button.Button object at 0xffff96781a80>
+2025-04-03 13:20:29,260 - DEBUG - Widget: <asciimatics.widgets.button.Button object at 0xffff96781a80> (4, 17) (24, 1)
+2025-04-03 13:20:29,599 - DEBUG - Current widget left event: None
+2025-04-03 13:20:30,793 - DEBUG - New event: MouseEvent (40, 11) 0
+2025-04-03 13:20:30,793 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,793 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,793 - DEBUG - Current widget left event: MouseEvent (40, 11) 0
+2025-04-03 13:20:30,793 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,793 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,793 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,793 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,793 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,793 - DEBUG - New event: MouseEvent (40, 11) 0
+2025-04-03 13:20:30,793 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,793 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,793 - DEBUG - Current widget left event: MouseEvent (40, 11) 0
+2025-04-03 13:20:30,793 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,793 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,793 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,793 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,793 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,793 - DEBUG - New event: MouseEvent (40, 11) 0
+2025-04-03 13:20:30,793 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,793 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,793 - DEBUG - Current widget left event: MouseEvent (40, 11) 0
+2025-04-03 13:20:30,793 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,793 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,793 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,793 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,793 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,844 - DEBUG - New event: MouseEvent (40, 11) 0
+2025-04-03 13:20:30,844 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,844 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,844 - DEBUG - Current widget left event: MouseEvent (40, 11) 0
+2025-04-03 13:20:30,844 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,844 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,844 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,845 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,845 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,845 - DEBUG - New event: MouseEvent (40, 11) 0
+2025-04-03 13:20:30,845 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,845 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,845 - DEBUG - Current widget left event: MouseEvent (40, 11) 0
+2025-04-03 13:20:30,845 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,845 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,845 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,845 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,845 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,845 - DEBUG - New event: MouseEvent (40, 11) 0
+2025-04-03 13:20:30,845 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,846 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,846 - DEBUG - Current widget left event: MouseEvent (40, 11) 0
+2025-04-03 13:20:30,846 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,846 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,846 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,846 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,846 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,846 - DEBUG - New event: MouseEvent (40, 11) 0
+2025-04-03 13:20:30,846 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,846 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,846 - DEBUG - Current widget left event: MouseEvent (40, 11) 0
+2025-04-03 13:20:30,846 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,846 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,846 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,846 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,846 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,846 - DEBUG - New event: MouseEvent (40, 11) 0
+2025-04-03 13:20:30,846 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,846 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,846 - DEBUG - Current widget left event: MouseEvent (40, 11) 0
+2025-04-03 13:20:30,846 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,846 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,846 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,846 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,846 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,846 - DEBUG - New event: MouseEvent (40, 11) 0
+2025-04-03 13:20:30,846 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,846 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,846 - DEBUG - Current widget left event: MouseEvent (40, 11) 0
+2025-04-03 13:20:30,846 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,846 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,846 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,846 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,846 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,896 - DEBUG - New event: MouseEvent (40, 11) 0
+2025-04-03 13:20:30,896 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,896 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,896 - DEBUG - Current widget left event: MouseEvent (40, 11) 0
+2025-04-03 13:20:30,896 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,896 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,896 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,896 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,896 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,896 - DEBUG - New event: MouseEvent (40, 11) 0
+2025-04-03 13:20:30,896 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,896 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,896 - DEBUG - Current widget left event: MouseEvent (40, 11) 0
+2025-04-03 13:20:30,896 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,896 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,896 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,896 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,896 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,896 - DEBUG - New event: MouseEvent (40, 11) 0
+2025-04-03 13:20:30,896 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,896 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,896 - DEBUG - Current widget left event: MouseEvent (40, 11) 0
+2025-04-03 13:20:30,896 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,896 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,896 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,896 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,896 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,896 - DEBUG - New event: MouseEvent (40, 11) 0
+2025-04-03 13:20:30,896 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,896 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,896 - DEBUG - Current widget left event: MouseEvent (40, 11) 0
+2025-04-03 13:20:30,896 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,896 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,896 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,896 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,896 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,896 - DEBUG - New event: MouseEvent (40, 11) 0
+2025-04-03 13:20:30,896 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,896 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,896 - DEBUG - Current widget left event: MouseEvent (40, 11) 0
+2025-04-03 13:20:30,896 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,897 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,897 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,897 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,897 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,897 - DEBUG - New event: MouseEvent (40, 11) 0
+2025-04-03 13:20:30,897 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,897 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,897 - DEBUG - Current widget left event: MouseEvent (40, 11) 0
+2025-04-03 13:20:30,897 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,897 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,897 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,897 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,897 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,947 - DEBUG - New event: MouseEvent (40, 11) 0
+2025-04-03 13:20:30,948 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,948 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,948 - DEBUG - Current widget left event: MouseEvent (40, 11) 0
+2025-04-03 13:20:30,948 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,948 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,948 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,948 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,948 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,948 - DEBUG - New event: MouseEvent (40, 11) 0
+2025-04-03 13:20:30,948 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,948 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,948 - DEBUG - Current widget left event: MouseEvent (40, 11) 0
+2025-04-03 13:20:30,948 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,948 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,948 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,948 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,948 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,948 - DEBUG - New event: MouseEvent (40, 11) 0
+2025-04-03 13:20:30,948 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,948 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,948 - DEBUG - Current widget left event: MouseEvent (40, 11) 0
+2025-04-03 13:20:30,948 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,948 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,948 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,948 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,948 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,998 - DEBUG - New event: MouseEvent (40, 11) 0
+2025-04-03 13:20:30,998 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,998 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,998 - DEBUG - Current widget left event: MouseEvent (40, 11) 0
+2025-04-03 13:20:30,998 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,998 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,998 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,998 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,998 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,998 - DEBUG - New event: MouseEvent (40, 11) 0
+2025-04-03 13:20:30,998 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,998 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,998 - DEBUG - Current widget left event: MouseEvent (40, 11) 0
+2025-04-03 13:20:30,998 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,998 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,998 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 11) 0
+2025-04-03 13:20:30,998 - DEBUG - Check layout: 40, 11
+2025-04-03 13:20:30,998 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 11) 0
+2025-04-03 13:20:31,844 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:31,844 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,845 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,845 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:31,845 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,845 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,845 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,845 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,845 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,845 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:31,845 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,845 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,845 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:31,845 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,845 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,845 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,845 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,845 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,845 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:31,845 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,845 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,845 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:31,845 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,845 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,845 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,845 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,845 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,845 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:31,845 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,845 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,845 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:31,845 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,845 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,845 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,845 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,845 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,845 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:31,845 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,845 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,845 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:31,845 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,845 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,845 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,845 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,845 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,845 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:31,845 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,845 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,845 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:31,845 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,845 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,846 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,846 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,846 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,897 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:31,897 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,897 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,897 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:31,897 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,897 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,897 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,897 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,897 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,897 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:31,897 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,897 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,897 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:31,897 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,897 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,897 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,897 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,897 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,897 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:31,897 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,897 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,897 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:31,897 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,897 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,897 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,897 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,897 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,897 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:31,897 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,897 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,897 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:31,897 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,897 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,897 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,897 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,897 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,897 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:31,897 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,898 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,898 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:31,898 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,898 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,898 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,898 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,898 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,898 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:31,898 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,898 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,898 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:31,898 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,898 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,898 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,898 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,898 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,947 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:31,947 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,947 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,947 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:31,947 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,947 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,947 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,947 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,947 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,948 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:31,948 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,948 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,948 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:31,948 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,948 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,948 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,948 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,948 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,948 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:31,948 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,948 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,948 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:31,948 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,948 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,948 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,948 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,948 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,948 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:31,948 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,948 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,948 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:31,948 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,948 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,948 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,948 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,948 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,948 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:31,948 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,948 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,948 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:31,948 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,948 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,948 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,948 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,948 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,949 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:31,949 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,949 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,949 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:31,949 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,949 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,949 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,949 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,949 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,949 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:31,949 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,949 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,949 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:31,949 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,949 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,949 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:31,949 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:31,949 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,004 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,004 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,005 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,005 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,005 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,005 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,005 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,005 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,006 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,006 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,006 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,006 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,006 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,006 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,006 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,006 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,006 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,006 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,006 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,006 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,006 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,006 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,006 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,006 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,006 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,006 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,006 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,006 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,006 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,007 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,007 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,007 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,007 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,007 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,007 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,007 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,007 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,007 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,007 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,007 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,007 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,007 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,007 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,007 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,007 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,007 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,007 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,007 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,007 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,007 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,007 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,007 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,007 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,007 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,122 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,122 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,122 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,122 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,122 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,122 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,122 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,122 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,122 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,122 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,122 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,122 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,122 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,122 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,122 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,122 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,122 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,123 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,123 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,123 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,123 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,123 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,123 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,123 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,123 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,123 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,123 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,123 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,123 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,123 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,123 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,123 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,123 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,123 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,123 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,123 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,123 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,123 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,123 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,123 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,123 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,123 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,123 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,123 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,123 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,123 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,123 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,123 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,123 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,123 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,123 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,123 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,123 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,123 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,123 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,123 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,123 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,123 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,123 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,123 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,123 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,123 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,123 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,123 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,123 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,123 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,123 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,123 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,123 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,123 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,123 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,123 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,226 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,226 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,226 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,227 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,227 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,227 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,227 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,227 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,227 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,227 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,227 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,227 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,227 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,227 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,227 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,227 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,227 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,227 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,227 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,227 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,227 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,227 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,227 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,227 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,227 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,227 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,227 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,227 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,227 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,227 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,227 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,227 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,227 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,227 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,227 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,227 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,278 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,278 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,280 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,281 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,281 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,281 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,281 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,281 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,281 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,281 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,282 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,282 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,282 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,282 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,282 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,282 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,282 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,282 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,282 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,282 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,282 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,282 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,282 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,282 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,282 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,282 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,282 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,282 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,282 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,282 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,282 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,282 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,282 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,282 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,282 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,282 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,282 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,282 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,282 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,282 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,282 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,282 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,282 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,282 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,282 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,282 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,282 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,282 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,282 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,282 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,282 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,282 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,282 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,282 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,329 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,329 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,329 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,329 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,329 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,329 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,329 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,329 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,329 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,330 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,330 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,330 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,330 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,330 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,330 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,330 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,330 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,330 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,330 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,330 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,330 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,330 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,330 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,330 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,330 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,330 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,330 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,330 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,330 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,330 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,330 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,330 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,330 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,330 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,330 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,330 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,330 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,330 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,330 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,330 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,330 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,330 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,330 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,330 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,330 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,330 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,330 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,330 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,330 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,330 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,330 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,330 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,330 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,330 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,379 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,379 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,379 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,379 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,379 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,379 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,379 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,379 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,379 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,379 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,379 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,379 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,379 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,379 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,379 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,379 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,379 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,379 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,379 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,379 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,379 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,379 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,380 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,380 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,380 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,380 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,380 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,380 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,380 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,380 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,380 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,380 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,380 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,380 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,380 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,380 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,380 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,380 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,380 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,380 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,380 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,380 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,380 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,380 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,380 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,380 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,380 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,380 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,380 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,380 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,380 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,380 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,380 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,380 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,380 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,380 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,380 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,380 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,380 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,380 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,380 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,380 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,380 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,430 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,430 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,430 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,430 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,430 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,430 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,430 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,430 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,430 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,430 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,430 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,430 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,430 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,430 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,430 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,430 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,430 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,430 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,430 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,430 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,430 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,430 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,430 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,431 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,431 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,431 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,431 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,431 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,431 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,431 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,431 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,431 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,431 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,431 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,431 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,431 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,431 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,431 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,431 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,431 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,431 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,431 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,431 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,431 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,431 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,431 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,431 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,431 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,431 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,431 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,431 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,431 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,431 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,431 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,481 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,482 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,482 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,482 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,482 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,482 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,482 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,482 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,482 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,482 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,482 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,482 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,482 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,482 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,482 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,482 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,482 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,482 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,482 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,482 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,482 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,482 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,482 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,482 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,482 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,482 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,482 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,482 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,482 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,482 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,482 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,482 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,482 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,482 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,482 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,482 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,482 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,482 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,482 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,482 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,482 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,482 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,482 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,482 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,482 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,482 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,482 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,482 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,482 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,482 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,482 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,482 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,482 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,482 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,532 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,532 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,533 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,533 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,533 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,533 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,533 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,533 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,533 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,533 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,533 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,533 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,533 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,533 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,533 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,533 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,533 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,533 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,533 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,533 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,533 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,533 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,533 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,533 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,533 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,533 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,533 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,533 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,533 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,533 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,533 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,533 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,533 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,533 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,533 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,533 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,533 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,533 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,533 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,533 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,533 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,533 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,533 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,533 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,533 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,533 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,533 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,533 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,533 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,533 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,533 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,533 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,533 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,533 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,586 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,587 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,587 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,587 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,587 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,587 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,587 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,587 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,587 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,588 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,588 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,588 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,589 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,589 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,589 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,589 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,589 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,589 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,589 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,589 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,589 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,589 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,589 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,589 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,589 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,589 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,589 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,639 - DEBUG - New event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,639 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,639 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,639 - DEBUG - Current widget left event: MouseEvent (40, 8) 0
+2025-04-03 13:20:32,639 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,639 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,639 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (40, 8) 0
+2025-04-03 13:20:32,639 - DEBUG - Check layout: 40, 8
+2025-04-03 13:20:32,639 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753dc0> MouseEvent (40, 8) 0
+2025-04-03 13:20:37,092 - DEBUG - New event: MouseEvent (103, 8) 1
+2025-04-03 13:28:54,737 - DEBUG - New event: MouseEvent (73, 14) 1
+2025-04-03 13:28:54,740 - DEBUG - Blurring: [<__main__.DBQueryView object at 0xffff967b4850>]
+2025-04-03 13:28:54,740 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e80> MouseEvent (73, 14) 1
+2025-04-03 13:28:54,740 - DEBUG - Widget: <asciimatics.widgets.button.Button object at 0xffff96781a80> (4, 17) (24, 1)
+2025-04-03 13:28:54,740 - DEBUG - Check layout: 73, 14
+2025-04-03 13:28:54,740 - DEBUG - Widget: <asciimatics.widgets.button.Button object at 0xffff96781a80> (4, 17) (24, 1)
+2025-04-03 13:28:54,740 - DEBUG - Widget: <asciimatics.widgets.button.Button object at 0xffff96781b60> (32, 17) (30, 1)
+2025-04-03 13:28:54,740 - DEBUG - Widget: <asciimatics.widgets.button.Button object at 0xffff96781c40> (73, 17) (10, 1)
+2025-04-03 13:28:54,740 - DEBUG - Current widget left event: MouseEvent (73, 14) 1
+2025-04-03 13:28:54,740 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff96753e20> MouseEvent (73, 14) 1
+2025-04-03 13:28:54,741 - DEBUG - Check layout: 73, 14
+2025-04-03 13:28:54,741 - DEBUG - Widget: <asciimatics.widgets.textbox.TextBox object at 0xffff96784160> (1, 1) (95, 16)
+2025-04-03 13:28:54,741 - DEBUG - Blur: <asciimatics.widgets.layout.Layout object at 0xffff96753e80>
+2025-04-03 13:28:54,741 - DEBUG - Widget blur: <asciimatics.widgets.button.Button object at 0xffff96781a80>
+2025-04-03 13:28:54,741 - DEBUG - Focus: <asciimatics.widgets.layout.Layout object at 0xffff96753e20>
+2025-04-03 13:28:54,741 - DEBUG - Widget focus: <asciimatics.widgets.textbox.TextBox object at 0xffff96784160>
+2025-04-03 13:28:54,741 - DEBUG - Widget: <asciimatics.widgets.textbox.TextBox object at 0xffff96784160> (1, 1) (95, 16)
+2025-04-03 13:28:54,743 - DEBUG - Cursor: 0,36

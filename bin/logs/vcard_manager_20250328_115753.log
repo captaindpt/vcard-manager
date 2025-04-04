@@ -1,0 +1,500 @@
+2025-03-28 11:57:53,628 - INFO - Refreshing card cache
+2025-03-28 11:57:53,628 - INFO - Scanning directory: /home/socs/assign1/assign2/assign3/./bin/cards
+2025-03-28 11:57:53,628 - INFO - All files in directory: ['334.vcf', 'mani.vcf', 'adfasd.vcf', 'hello.vcf']
+2025-03-28 11:57:53,628 - INFO - Found vCard file: 334.vcf
+2025-03-28 11:57:53,628 - INFO - File details for 334.vcf:
+2025-03-28 11:57:53,628 - INFO -   Size: 48 bytes
+2025-03-28 11:57:53,628 - INFO -   Permissions: 0o100644
+2025-03-28 11:57:53,628 - INFO -   Modified: 2025-03-28 11:52:06.378077
+2025-03-28 11:57:53,628 - INFO - Processing card: 334.vcf
+2025-03-28 11:57:53,628 - INFO - File contents of 334.vcf:
+BEGIN:VCARD
+VERSION:4.0
+FN:234234
+END:VCARD
+
+2025-03-28 11:57:53,628 - INFO - Successfully created card for 334.vcf
+2025-03-28 11:57:53,628 - INFO - Successfully validated card for 334.vcf
+2025-03-28 11:57:53,629 - INFO - Successfully cached valid card: 334.vcf
+2025-03-28 11:57:53,629 - INFO - Found vCard file: mani.vcf
+2025-03-28 11:57:53,629 - INFO - File details for mani.vcf:
+2025-03-28 11:57:53,629 - INFO -   Size: 46 bytes
+2025-03-28 11:57:53,629 - INFO -   Permissions: 0o100644
+2025-03-28 11:57:53,629 - INFO -   Modified: 2025-03-28 05:50:47.972643
+2025-03-28 11:57:53,629 - INFO - Processing card: mani.vcf
+2025-03-28 11:57:53,629 - INFO - File contents of mani.vcf:
+BEGIN:VCARD
+VERSION:4.0
+FN:werw
+END:VCARD
+
+2025-03-28 11:57:53,629 - INFO - Successfully created card for mani.vcf
+2025-03-28 11:57:53,629 - INFO - Successfully validated card for mani.vcf
+2025-03-28 11:57:53,629 - INFO - Successfully cached valid card: mani.vcf
+2025-03-28 11:57:53,629 - INFO - Found vCard file: adfasd.vcf
+2025-03-28 11:57:53,629 - INFO - File details for adfasd.vcf:
+2025-03-28 11:57:53,629 - INFO -   Size: 45 bytes
+2025-03-28 11:57:53,629 - INFO -   Permissions: 0o100644
+2025-03-28 11:57:53,629 - INFO -   Modified: 2025-03-28 11:51:51.126148
+2025-03-28 11:57:53,629 - INFO - Processing card: adfasd.vcf
+2025-03-28 11:57:53,629 - INFO - File contents of adfasd.vcf:
+BEGIN:VCARD
+VERSION:4.0
+FN:234
+END:VCARD
+
+2025-03-28 11:57:53,629 - INFO - Successfully created card for adfasd.vcf
+2025-03-28 11:57:53,629 - INFO - Successfully validated card for adfasd.vcf
+2025-03-28 11:57:53,629 - INFO - Successfully cached valid card: adfasd.vcf
+2025-03-28 11:57:53,629 - INFO - Found vCard file: hello.vcf
+2025-03-28 11:57:53,629 - INFO - File details for hello.vcf:
+2025-03-28 11:57:53,629 - INFO -   Size: 47 bytes
+2025-03-28 11:57:53,629 - INFO -   Permissions: 0o100644
+2025-03-28 11:57:53,629 - INFO -   Modified: 2025-03-28 06:12:38.359836
+2025-03-28 11:57:53,629 - INFO - Processing card: hello.vcf
+2025-03-28 11:57:53,629 - INFO - File contents of hello.vcf:
+BEGIN:VCARD
+VERSION:4.0
+FN:its m
+END:VCARD
+
+2025-03-28 11:57:53,629 - INFO - Successfully created card for hello.vcf
+2025-03-28 11:57:53,629 - INFO - Successfully validated card for hello.vcf
+2025-03-28 11:57:53,629 - INFO - Successfully cached valid card: hello.vcf
+2025-03-28 11:57:53,629 - INFO - Current cache state:
+2025-03-28 11:57:53,629 - INFO -   334.vcf: last_modified=2025-03-28 11:52:06.378077
+2025-03-28 11:57:53,629 - INFO -   mani.vcf: last_modified=2025-03-28 05:50:47.972643
+2025-03-28 11:57:53,629 - INFO -   adfasd.vcf: last_modified=2025-03-28 11:51:51.126148
+2025-03-28 11:57:53,629 - INFO -   hello.vcf: last_modified=2025-03-28 06:12:38.359836
+2025-03-28 11:57:53,629 - INFO - Card cache refresh complete. Valid cards: ['334.vcf', 'mani.vcf', 'adfasd.vcf', 'hello.vcf']
+2025-03-28 11:57:53,630 - INFO - Refreshing card cache
+2025-03-28 11:57:53,630 - INFO - Scanning directory: /home/socs/assign1/assign2/assign3/./bin/cards
+2025-03-28 11:57:53,630 - INFO - All files in directory: ['334.vcf', 'mani.vcf', 'adfasd.vcf', 'hello.vcf']
+2025-03-28 11:57:53,630 - INFO - Found vCard file: 334.vcf
+2025-03-28 11:57:53,630 - INFO - File details for 334.vcf:
+2025-03-28 11:57:53,630 - INFO -   Size: 48 bytes
+2025-03-28 11:57:53,630 - INFO -   Permissions: 0o100644
+2025-03-28 11:57:53,630 - INFO -   Modified: 2025-03-28 11:52:06.378077
+2025-03-28 11:57:53,630 - INFO - Card 334.vcf unchanged, using cached version
+2025-03-28 11:57:53,630 - INFO - Found vCard file: mani.vcf
+2025-03-28 11:57:53,630 - INFO - File details for mani.vcf:
+2025-03-28 11:57:53,630 - INFO -   Size: 46 bytes
+2025-03-28 11:57:53,630 - INFO -   Permissions: 0o100644
+2025-03-28 11:57:53,630 - INFO -   Modified: 2025-03-28 05:50:47.972643
+2025-03-28 11:57:53,630 - INFO - Card mani.vcf unchanged, using cached version
+2025-03-28 11:57:53,630 - INFO - Found vCard file: adfasd.vcf
+2025-03-28 11:57:53,630 - INFO - File details for adfasd.vcf:
+2025-03-28 11:57:53,630 - INFO -   Size: 45 bytes
+2025-03-28 11:57:53,630 - INFO -   Permissions: 0o100644
+2025-03-28 11:57:53,630 - INFO -   Modified: 2025-03-28 11:51:51.126148
+2025-03-28 11:57:53,630 - INFO - Card adfasd.vcf unchanged, using cached version
+2025-03-28 11:57:53,630 - INFO - Found vCard file: hello.vcf
+2025-03-28 11:57:53,630 - INFO - File details for hello.vcf:
+2025-03-28 11:57:53,630 - INFO -   Size: 47 bytes
+2025-03-28 11:57:53,630 - INFO -   Permissions: 0o100644
+2025-03-28 11:57:53,630 - INFO -   Modified: 2025-03-28 06:12:38.359836
+2025-03-28 11:57:53,630 - INFO - Card hello.vcf unchanged, using cached version
+2025-03-28 11:57:53,630 - INFO - Current cache state:
+2025-03-28 11:57:53,630 - INFO -   334.vcf: last_modified=2025-03-28 11:52:06.378077
+2025-03-28 11:57:53,630 - INFO -   mani.vcf: last_modified=2025-03-28 05:50:47.972643
+2025-03-28 11:57:53,630 - INFO -   adfasd.vcf: last_modified=2025-03-28 11:51:51.126148
+2025-03-28 11:57:53,630 - INFO -   hello.vcf: last_modified=2025-03-28 06:12:38.359836
+2025-03-28 11:57:53,630 - INFO - Card cache refresh complete. Valid cards: ['334.vcf', 'mani.vcf', 'adfasd.vcf', 'hello.vcf']
+2025-03-28 11:57:53,630 - INFO - Found 4 valid vCard files
+2025-03-28 11:57:53,630 - DEBUG - Updating: filename
+2025-03-28 11:57:53,630 - DEBUG - Form field changed
+2025-03-28 11:57:53,630 - DEBUG - Updating: contact_name
+2025-03-28 11:57:53,630 - DEBUG - Form field changed
+2025-03-28 11:57:53,630 - DEBUG - Updating: None
+2025-03-28 11:57:53,630 - DEBUG - Updating: None
+2025-03-28 11:57:53,630 - DEBUG - Updating: None
+2025-03-28 11:57:53,630 - DEBUG - Updating: None
+2025-03-28 11:57:53,630 - DEBUG - Updating: None
+2025-03-28 11:57:53,630 - DEBUG - Updating: None
+2025-03-28 11:57:53,630 - DEBUG - Updating: None
+2025-03-28 11:57:53,631 - DEBUG - Updating: filename
+2025-03-28 11:57:53,631 - DEBUG - Updating: contact_name
+2025-03-28 11:57:53,631 - DEBUG - Form field changed
+2025-03-28 11:57:53,631 - DEBUG - Updating: birthday
+2025-03-28 11:57:53,631 - DEBUG - Updating: anniversary
+2025-03-28 11:57:53,631 - DEBUG - Updating: other_props
+2025-03-28 11:57:53,631 - DEBUG - Updating: None
+2025-03-28 11:57:53,631 - DEBUG - Updating: None
+2025-03-28 11:57:53,631 - DEBUG - Updating: None
+2025-03-28 11:57:53,631 - DEBUG - Updating: None
+2025-03-28 11:57:53,631 - DEBUG - Updating: None
+2025-03-28 11:57:53,631 - DEBUG - Updating: None
+2025-03-28 11:57:53,631 - DEBUG - Updating: username
+2025-03-28 11:57:53,631 - DEBUG - Updating: password
+2025-03-28 11:57:53,631 - DEBUG - Updating: database
+2025-03-28 11:57:53,631 - DEBUG - Updating: None
+2025-03-28 11:57:53,631 - DEBUG - Updating: None
+2025-03-28 11:57:53,631 - DEBUG - Updating: None
+2025-03-28 11:57:53,631 - DEBUG - Updating: None
+2025-03-28 11:57:53,631 - DEBUG - Updating: None
+2025-03-28 11:57:53,631 - DEBUG - Updating: None
+2025-03-28 11:57:53,631 - DEBUG - Updating: username
+2025-03-28 11:57:53,631 - DEBUG - Updating: password
+2025-03-28 11:57:53,631 - DEBUG - Updating: database
+2025-03-28 11:57:53,631 - DEBUG - Updating: None
+2025-03-28 11:57:53,631 - DEBUG - Widget blur: <asciimatics.widgets.label.Label object at 0xffff9915b510>
+2025-03-28 11:57:53,631 - DEBUG - Widget blur: <asciimatics.widgets.label.Label object at 0xffff9915b850>
+2025-03-28 11:57:53,631 - DEBUG - Widget blur: <asciimatics.widgets.text.Text object at 0xffff99deb790>
+2025-03-28 11:57:53,631 - DEBUG - Widget blur: <asciimatics.widgets.text.Text object at 0xffff99e8f4c0>
+2025-03-28 11:57:53,631 - DEBUG - Widget blur: <asciimatics.widgets.text.Text object at 0xffff99e8f2e0>
+2025-03-28 11:57:53,631 - DEBUG - Widget blur: <asciimatics.widgets.label.Label object at 0xffff9915b920>
+2025-03-28 11:57:53,631 - DEBUG - Blur: <asciimatics.widgets.layout.Layout object at 0xffff99153940>
+2025-03-28 11:57:53,631 - DEBUG - Updating: None
+2025-03-28 11:57:53,631 - DEBUG - Updating: None
+2025-03-28 11:57:53,631 - DEBUG - Widget blur: <asciimatics.widgets.button.Button object at 0xffff99180660>
+2025-03-28 11:57:53,631 - DEBUG - Widget blur: <asciimatics.widgets.button.Button object at 0xffff99180580>
+2025-03-28 11:57:53,631 - DEBUG - Blur: <asciimatics.widgets.layout.Layout object at 0xffff991539a0>
+2025-03-28 11:57:53,631 - DEBUG - Updating: None
+2025-03-28 11:57:53,631 - DEBUG - Widget blur: <asciimatics.widgets.label.Label object at 0xffff9915b9f0>
+2025-03-28 11:57:53,631 - DEBUG - Blur: <asciimatics.widgets.layout.Layout object at 0xffff99153a00>
+2025-03-28 11:57:53,631 - DEBUG - Focus: <asciimatics.widgets.layout.Layout object at 0xffff99153940>
+2025-03-28 11:57:53,631 - DEBUG - Widget focus: <asciimatics.widgets.text.Text object at 0xffff99deb790>
+2025-03-28 11:57:53,631 - DEBUG - Cloning: Login to Database
+2025-03-28 11:57:53,631 - DEBUG - Updating: None
+2025-03-28 11:57:53,631 - DEBUG - Updating: None
+2025-03-28 11:57:53,631 - DEBUG - Updating: username
+2025-03-28 11:57:53,631 - DEBUG - Updating: password
+2025-03-28 11:57:53,631 - DEBUG - Updating: database
+2025-03-28 11:57:53,631 - DEBUG - Updating: None
+2025-03-28 11:57:53,631 - DEBUG - Updating: None
+2025-03-28 11:57:53,631 - DEBUG - Updating: None
+2025-03-28 11:57:53,631 - DEBUG - Updating: None
+2025-03-28 11:57:53,631 - DEBUG - Updating: None
+2025-03-28 11:57:53,631 - DEBUG - Updating: None
+2025-03-28 11:57:53,631 - DEBUG - Updating: username
+2025-03-28 11:57:53,631 - DEBUG - Updating: password
+2025-03-28 11:57:53,631 - DEBUG - Updating: database
+2025-03-28 11:57:53,631 - DEBUG - Updating: None
+2025-03-28 11:57:53,631 - DEBUG - Updating: None
+2025-03-28 11:57:53,631 - DEBUG - Updating: None
+2025-03-28 11:57:53,631 - DEBUG - Updating: None
+2025-03-28 11:57:55,425 - DEBUG - Processing key: 6d
+2025-03-28 11:57:55,426 - DEBUG - Returning key: 6d
+2025-03-28 11:57:55,427 - DEBUG - New event: KeyboardEvent: 109
+2025-03-28 11:57:55,427 - DEBUG - Focus: <asciimatics.widgets.layout.Layout object at 0xffff99153940>
+2025-03-28 11:57:55,427 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153940> KeyboardEvent: 109
+2025-03-28 11:57:55,427 - DEBUG - Current widget left event: None
+2025-03-28 11:57:55,530 - DEBUG - Processing key: 72
+2025-03-28 11:57:55,530 - DEBUG - Returning key: 72
+2025-03-28 11:57:55,530 - DEBUG - New event: KeyboardEvent: 114
+2025-03-28 11:57:55,530 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153940> KeyboardEvent: 114
+2025-03-28 11:57:55,530 - DEBUG - Current widget left event: None
+2025-03-28 11:57:55,687 - DEBUG - Processing key: 61
+2025-03-28 11:57:55,687 - DEBUG - Returning key: 61
+2025-03-28 11:57:55,687 - DEBUG - New event: KeyboardEvent: 97
+2025-03-28 11:57:55,687 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153940> KeyboardEvent: 97
+2025-03-28 11:57:55,688 - DEBUG - Current widget left event: None
+2025-03-28 11:57:55,849 - DEBUG - Processing key: 73
+2025-03-28 11:57:55,850 - DEBUG - Returning key: 73
+2025-03-28 11:57:55,850 - DEBUG - New event: KeyboardEvent: 115
+2025-03-28 11:57:55,850 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153940> KeyboardEvent: 115
+2025-03-28 11:57:55,850 - DEBUG - Current widget left event: None
+2025-03-28 11:57:55,955 - DEBUG - Processing key: 68
+2025-03-28 11:57:55,955 - DEBUG - Returning key: 68
+2025-03-28 11:57:55,955 - DEBUG - New event: KeyboardEvent: 104
+2025-03-28 11:57:55,955 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153940> KeyboardEvent: 104
+2025-03-28 11:57:55,955 - DEBUG - Current widget left event: None
+2025-03-28 11:57:56,112 - DEBUG - Processing key: 61
+2025-03-28 11:57:56,112 - DEBUG - Returning key: 61
+2025-03-28 11:57:56,113 - DEBUG - New event: KeyboardEvent: 97
+2025-03-28 11:57:56,113 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153940> KeyboardEvent: 97
+2025-03-28 11:57:56,113 - DEBUG - Current widget left event: None
+2025-03-28 11:57:56,218 - DEBUG - Processing key: 68
+2025-03-28 11:57:56,218 - DEBUG - Returning key: 68
+2025-03-28 11:57:56,218 - DEBUG - New event: KeyboardEvent: 104
+2025-03-28 11:57:56,218 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153940> KeyboardEvent: 104
+2025-03-28 11:57:56,218 - DEBUG - Current widget left event: None
+2025-03-28 11:57:56,437 - DEBUG - Processing key: 6d
+2025-03-28 11:57:56,438 - DEBUG - Returning key: 6d
+2025-03-28 11:57:56,438 - DEBUG - New event: KeyboardEvent: 109
+2025-03-28 11:57:56,438 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153940> KeyboardEvent: 109
+2025-03-28 11:57:56,438 - DEBUG - Current widget left event: None
+2025-03-28 11:57:56,543 - DEBUG - Processing key: 9
+2025-03-28 11:57:56,543 - DEBUG - Returning key: 9
+2025-03-28 11:57:56,543 - DEBUG - New event: KeyboardEvent: -301
+2025-03-28 11:57:56,544 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153940> KeyboardEvent: -301
+2025-03-28 11:57:56,544 - DEBUG - Widget blur: <asciimatics.widgets.text.Text object at 0xffff99deb790>
+2025-03-28 11:57:56,544 - DEBUG - Widget focus: <asciimatics.widgets.text.Text object at 0xffff99e8f4c0>
+2025-03-28 11:57:56,544 - DEBUG - Current widget left event: None
+2025-03-28 11:57:57,188 - DEBUG - Processing key: 31
+2025-03-28 11:57:57,188 - DEBUG - Returning key: 31
+2025-03-28 11:57:57,189 - DEBUG - New event: KeyboardEvent: 49
+2025-03-28 11:57:57,189 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153940> KeyboardEvent: 49
+2025-03-28 11:57:57,189 - DEBUG - Current widget left event: None
+2025-03-28 11:57:57,352 - DEBUG - Processing key: 32
+2025-03-28 11:57:57,353 - DEBUG - Returning key: 32
+2025-03-28 11:57:57,353 - DEBUG - New event: KeyboardEvent: 50
+2025-03-28 11:57:57,353 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153940> KeyboardEvent: 50
+2025-03-28 11:57:57,354 - DEBUG - Current widget left event: None
+2025-03-28 11:57:57,717 - DEBUG - Processing key: 35
+2025-03-28 11:57:57,717 - DEBUG - Returning key: 35
+2025-03-28 11:57:57,717 - DEBUG - New event: KeyboardEvent: 53
+2025-03-28 11:57:57,717 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153940> KeyboardEvent: 53
+2025-03-28 11:57:57,717 - DEBUG - Current widget left event: None
+2025-03-28 11:57:57,986 - DEBUG - Processing key: 30
+2025-03-28 11:57:57,986 - DEBUG - Returning key: 30
+2025-03-28 11:57:57,987 - DEBUG - New event: KeyboardEvent: 48
+2025-03-28 11:57:57,987 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153940> KeyboardEvent: 48
+2025-03-28 11:57:57,987 - DEBUG - Current widget left event: None
+2025-03-28 11:57:58,358 - DEBUG - Processing key: 34
+2025-03-28 11:57:58,359 - DEBUG - Returning key: 34
+2025-03-28 11:57:58,359 - DEBUG - New event: KeyboardEvent: 52
+2025-03-28 11:57:58,359 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153940> KeyboardEvent: 52
+2025-03-28 11:57:58,360 - DEBUG - Current widget left event: None
+2025-03-28 11:57:58,679 - DEBUG - Processing key: 35
+2025-03-28 11:57:58,680 - DEBUG - Returning key: 35
+2025-03-28 11:57:58,680 - DEBUG - New event: KeyboardEvent: 53
+2025-03-28 11:57:58,680 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153940> KeyboardEvent: 53
+2025-03-28 11:57:58,680 - DEBUG - Current widget left event: None
+2025-03-28 11:57:59,049 - DEBUG - Processing key: 39
+2025-03-28 11:57:59,049 - DEBUG - Returning key: 39
+2025-03-28 11:57:59,049 - DEBUG - New event: KeyboardEvent: 57
+2025-03-28 11:57:59,049 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153940> KeyboardEvent: 57
+2025-03-28 11:57:59,049 - DEBUG - Current widget left event: None
+2025-03-28 11:57:59,315 - DEBUG - Processing key: 9
+2025-03-28 11:57:59,316 - DEBUG - Returning key: 9
+2025-03-28 11:57:59,316 - DEBUG - New event: KeyboardEvent: -301
+2025-03-28 11:57:59,316 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153940> KeyboardEvent: -301
+2025-03-28 11:57:59,316 - DEBUG - Widget blur: <asciimatics.widgets.text.Text object at 0xffff99e8f4c0>
+2025-03-28 11:57:59,316 - DEBUG - Widget focus: <asciimatics.widgets.text.Text object at 0xffff99e8f2e0>
+2025-03-28 11:57:59,317 - DEBUG - Current widget left event: None
+2025-03-28 11:57:59,865 - DEBUG - Processing key: 6d
+2025-03-28 11:57:59,866 - DEBUG - Returning key: 6d
+2025-03-28 11:57:59,866 - DEBUG - New event: KeyboardEvent: 109
+2025-03-28 11:57:59,866 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153940> KeyboardEvent: 109
+2025-03-28 11:57:59,866 - DEBUG - Current widget left event: None
+2025-03-28 11:58:00,080 - DEBUG - Processing key: 72
+2025-03-28 11:58:00,080 - DEBUG - Returning key: 72
+2025-03-28 11:58:00,081 - DEBUG - New event: KeyboardEvent: 114
+2025-03-28 11:58:00,081 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153940> KeyboardEvent: 114
+2025-03-28 11:58:00,081 - DEBUG - Current widget left event: None
+2025-03-28 11:58:00,292 - DEBUG - Processing key: 61
+2025-03-28 11:58:00,292 - DEBUG - Returning key: 61
+2025-03-28 11:58:00,292 - DEBUG - New event: KeyboardEvent: 97
+2025-03-28 11:58:00,293 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153940> KeyboardEvent: 97
+2025-03-28 11:58:00,293 - DEBUG - Current widget left event: None
+2025-03-28 11:58:00,400 - DEBUG - Processing key: 73
+2025-03-28 11:58:00,400 - DEBUG - Returning key: 73
+2025-03-28 11:58:00,400 - DEBUG - New event: KeyboardEvent: 115
+2025-03-28 11:58:00,400 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153940> KeyboardEvent: 115
+2025-03-28 11:58:00,401 - DEBUG - Current widget left event: None
+2025-03-28 11:58:00,558 - DEBUG - Processing key: 68
+2025-03-28 11:58:00,558 - DEBUG - Returning key: 68
+2025-03-28 11:58:00,559 - DEBUG - New event: KeyboardEvent: 104
+2025-03-28 11:58:00,559 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153940> KeyboardEvent: 104
+2025-03-28 11:58:00,559 - DEBUG - Current widget left event: None
+2025-03-28 11:58:00,714 - DEBUG - Processing key: 61
+2025-03-28 11:58:00,716 - DEBUG - Returning key: 61
+2025-03-28 11:58:00,717 - DEBUG - New event: KeyboardEvent: 97
+2025-03-28 11:58:00,718 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153940> KeyboardEvent: 97
+2025-03-28 11:58:00,718 - DEBUG - Current widget left event: None
+2025-03-28 11:58:00,818 - DEBUG - Processing key: 68
+2025-03-28 11:58:00,819 - DEBUG - Returning key: 68
+2025-03-28 11:58:00,819 - DEBUG - New event: KeyboardEvent: 104
+2025-03-28 11:58:00,819 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153940> KeyboardEvent: 104
+2025-03-28 11:58:00,819 - DEBUG - Current widget left event: None
+2025-03-28 11:58:01,027 - DEBUG - Processing key: 6d
+2025-03-28 11:58:01,028 - DEBUG - Returning key: 6d
+2025-03-28 11:58:01,030 - DEBUG - New event: KeyboardEvent: 109
+2025-03-28 11:58:01,030 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153940> KeyboardEvent: 109
+2025-03-28 11:58:01,030 - DEBUG - Current widget left event: None
+2025-03-28 11:58:01,668 - DEBUG - Processing key: 102
+2025-03-28 11:58:01,669 - DEBUG - Returning key: 102
+2025-03-28 11:58:01,669 - DEBUG - New event: KeyboardEvent: -206
+2025-03-28 11:58:01,669 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153940> KeyboardEvent: -206
+2025-03-28 11:58:01,669 - DEBUG - Current widget left event: KeyboardEvent: -206
+2025-03-28 11:58:01,670 - DEBUG - Blur: <asciimatics.widgets.layout.Layout object at 0xffff99153940>
+2025-03-28 11:58:01,670 - DEBUG - Widget blur: <asciimatics.widgets.text.Text object at 0xffff99e8f2e0>
+2025-03-28 11:58:01,670 - DEBUG - Focus: <asciimatics.widgets.layout.Layout object at 0xffff991539a0>
+2025-03-28 11:58:01,670 - DEBUG - Widget focus: <asciimatics.widgets.button.Button object at 0xffff99180660>
+2025-03-28 11:58:02,048 - DEBUG - Processing key: a
+2025-03-28 11:58:02,048 - DEBUG - Returning key: a
+2025-03-28 11:58:02,048 - DEBUG - New event: KeyboardEvent: 10
+2025-03-28 11:58:02,048 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff991539a0> KeyboardEvent: 10
+2025-03-28 11:58:02,407 - DEBUG - Updating: files
+2025-03-28 11:58:02,408 - DEBUG - Updating: None
+2025-03-28 11:58:02,408 - DEBUG - Updating: None
+2025-03-28 11:58:02,408 - DEBUG - Updating: None
+2025-03-28 11:58:02,408 - DEBUG - Updating: None
+2025-03-28 11:58:02,408 - DEBUG - Updating: None
+2025-03-28 11:58:02,409 - DEBUG - Updating: files
+2025-03-28 11:58:02,409 - DEBUG - Widget blur: <asciimatics.widgets.listbox.ListBox object at 0xffff99154c30>
+2025-03-28 11:58:02,409 - DEBUG - Blur: <asciimatics.widgets.layout.Layout object at 0xffff99153ac0>
+2025-03-28 11:58:02,409 - DEBUG - Updating: None
+2025-03-28 11:58:02,409 - DEBUG - Updating: None
+2025-03-28 11:58:02,409 - DEBUG - Updating: None
+2025-03-28 11:58:02,409 - DEBUG - Updating: None
+2025-03-28 11:58:02,409 - DEBUG - Widget blur: <asciimatics.widgets.button.Button object at 0xffff99180740>
+2025-03-28 11:58:02,409 - DEBUG - Widget blur: <asciimatics.widgets.button.Button object at 0xffff99180820>
+2025-03-28 11:58:02,409 - DEBUG - Widget blur: <asciimatics.widgets.button.Button object at 0xffff99180900>
+2025-03-28 11:58:02,409 - DEBUG - Widget blur: <asciimatics.widgets.button.Button object at 0xffff991809e0>
+2025-03-28 11:58:02,410 - DEBUG - Blur: <asciimatics.widgets.layout.Layout object at 0xffff99153b20>
+2025-03-28 11:58:02,410 - DEBUG - Updating: None
+2025-03-28 11:58:02,410 - DEBUG - Widget blur: <asciimatics.widgets.label.Label object at 0xffff9915bac0>
+2025-03-28 11:58:02,410 - DEBUG - Blur: <asciimatics.widgets.layout.Layout object at 0xffff99153a60>
+2025-03-28 11:58:02,410 - DEBUG - Focus: <asciimatics.widgets.layout.Layout object at 0xffff99153ac0>
+2025-03-28 11:58:02,410 - DEBUG - Widget focus: <asciimatics.widgets.listbox.ListBox object at 0xffff99154c30>
+2025-03-28 11:58:04,137 - DEBUG - New event: MouseEvent (44, 18) 1
+2025-03-28 11:58:04,138 - DEBUG - Focus: <asciimatics.widgets.layout.Layout object at 0xffff99153ac0>
+2025-03-28 11:58:04,138 - DEBUG - Blurring: [<__main__.MainView object at 0xffff9918b9d0>]
+2025-03-28 11:58:04,138 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153ac0> MouseEvent (44, 18) 1
+2025-03-28 11:58:04,138 - DEBUG - Widget: <asciimatics.widgets.listbox.ListBox object at 0xffff99154c30> (1, 1) (71, 18)
+2025-03-28 11:58:04,138 - DEBUG - Current widget left event: None
+2025-03-28 11:58:05,647 - DEBUG - New event: MouseEvent (44, 19) 1
+2025-03-28 11:58:05,648 - DEBUG - Blurring: [<__main__.MainView object at 0xffff9918b9d0>]
+2025-03-28 11:58:05,648 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153ac0> MouseEvent (44, 19) 1
+2025-03-28 11:58:05,648 - DEBUG - Widget: <asciimatics.widgets.listbox.ListBox object at 0xffff99154c30> (1, 1) (71, 18)
+2025-03-28 11:58:05,648 - DEBUG - Check layout: 44, 19
+2025-03-28 11:58:05,649 - DEBUG - Widget: <asciimatics.widgets.listbox.ListBox object at 0xffff99154c30> (1, 1) (71, 18)
+2025-03-28 11:58:05,649 - DEBUG - Current widget left event: MouseEvent (44, 19) 1
+2025-03-28 11:58:05,649 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153ac0> MouseEvent (44, 19) 1
+2025-03-28 11:58:05,649 - DEBUG - Widget: <asciimatics.widgets.listbox.ListBox object at 0xffff99154c30> (1, 1) (71, 18)
+2025-03-28 11:58:05,649 - DEBUG - Check layout: 44, 19
+2025-03-28 11:58:05,649 - DEBUG - Widget: <asciimatics.widgets.listbox.ListBox object at 0xffff99154c30> (1, 1) (71, 18)
+2025-03-28 11:58:05,649 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153b20> MouseEvent (44, 19) 1
+2025-03-28 11:58:05,649 - DEBUG - Check layout: 44, 19
+2025-03-28 11:58:05,649 - DEBUG - Widget: <asciimatics.widgets.button.Button object at 0xffff99180740> (4, 19) (10, 1)
+2025-03-28 11:58:05,649 - DEBUG - Widget: <asciimatics.widgets.button.Button object at 0xffff99180820> (22, 19) (8, 1)
+2025-03-28 11:58:05,649 - DEBUG - Widget: <asciimatics.widgets.button.Button object at 0xffff99180900> (36, 19) (14, 1)
+2025-03-28 11:58:05,649 - DEBUG - Blur: <asciimatics.widgets.layout.Layout object at 0xffff99153ac0>
+2025-03-28 11:58:05,649 - DEBUG - Widget blur: <asciimatics.widgets.listbox.ListBox object at 0xffff99154c30>
+2025-03-28 11:58:05,650 - DEBUG - Focus: <asciimatics.widgets.layout.Layout object at 0xffff99153b20>
+2025-03-28 11:58:05,650 - DEBUG - Widget focus: <asciimatics.widgets.button.Button object at 0xffff99180900>
+2025-03-28 11:58:05,650 - DEBUG - Widget: <asciimatics.widgets.button.Button object at 0xffff99180900> (36, 19) (14, 1)
+2025-03-28 11:58:05,650 - DEBUG - Updating: results
+2025-03-28 11:58:05,650 - DEBUG - Updating: None
+2025-03-28 11:58:05,650 - DEBUG - Updating: None
+2025-03-28 11:58:05,651 - DEBUG - Updating: None
+2025-03-28 11:58:05,651 - DEBUG - Updating: None
+2025-03-28 11:58:05,651 - DEBUG - Updating: results
+2025-03-28 11:58:05,651 - DEBUG - Widget blur: <asciimatics.widgets.textbox.TextBox object at 0xffff99184160>
+2025-03-28 11:58:05,651 - DEBUG - Blur: <asciimatics.widgets.layout.Layout object at 0xffff99153e20>
+2025-03-28 11:58:05,651 - DEBUG - Updating: None
+2025-03-28 11:58:05,651 - DEBUG - Updating: None
+2025-03-28 11:58:05,651 - DEBUG - Updating: None
+2025-03-28 11:58:05,651 - DEBUG - Widget blur: <asciimatics.widgets.button.Button object at 0xffff99181a80>
+2025-03-28 11:58:05,651 - DEBUG - Widget blur: <asciimatics.widgets.button.Button object at 0xffff99181b60>
+2025-03-28 11:58:05,651 - DEBUG - Widget blur: <asciimatics.widgets.button.Button object at 0xffff99181c40>
+2025-03-28 11:58:05,651 - DEBUG - Blur: <asciimatics.widgets.layout.Layout object at 0xffff99153e80>
+2025-03-28 11:58:05,652 - DEBUG - Updating: None
+2025-03-28 11:58:05,652 - DEBUG - Widget blur: <asciimatics.widgets.label.Label object at 0xffff991ac2b0>
+2025-03-28 11:58:05,652 - DEBUG - Blur: <asciimatics.widgets.layout.Layout object at 0xffff99153dc0>
+2025-03-28 11:58:05,652 - DEBUG - Focus: <asciimatics.widgets.layout.Layout object at 0xffff99153e20>
+2025-03-28 11:58:05,652 - DEBUG - Widget focus: <asciimatics.widgets.textbox.TextBox object at 0xffff99184160>
+2025-03-28 11:58:05,652 - DEBUG - Cursor: 0,0
+2025-03-28 11:58:07,971 - DEBUG - New event: MouseEvent (19, 19) 1
+2025-03-28 11:58:07,971 - DEBUG - Focus: <asciimatics.widgets.layout.Layout object at 0xffff99153e20>
+2025-03-28 11:58:07,971 - DEBUG - Blurring: [<__main__.DBQueryView object at 0xffff991b0750>]
+2025-03-28 11:58:07,972 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153e20> MouseEvent (19, 19) 1
+2025-03-28 11:58:07,972 - DEBUG - Widget: <asciimatics.widgets.textbox.TextBox object at 0xffff99184160> (1, 1) (71, 18)
+2025-03-28 11:58:07,972 - DEBUG - Check layout: 19, 19
+2025-03-28 11:58:07,972 - DEBUG - Widget: <asciimatics.widgets.textbox.TextBox object at 0xffff99184160> (1, 1) (71, 18)
+2025-03-28 11:58:07,972 - DEBUG - Current widget left event: MouseEvent (19, 19) 1
+2025-03-28 11:58:07,972 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153e20> MouseEvent (19, 19) 1
+2025-03-28 11:58:07,972 - DEBUG - Widget: <asciimatics.widgets.textbox.TextBox object at 0xffff99184160> (1, 1) (71, 18)
+2025-03-28 11:58:07,972 - DEBUG - Check layout: 19, 19
+2025-03-28 11:58:07,972 - DEBUG - Widget: <asciimatics.widgets.textbox.TextBox object at 0xffff99184160> (1, 1) (71, 18)
+2025-03-28 11:58:07,972 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153e80> MouseEvent (19, 19) 1
+2025-03-28 11:58:07,972 - DEBUG - Check layout: 19, 19
+2025-03-28 11:58:07,972 - DEBUG - Widget: <asciimatics.widgets.button.Button object at 0xffff99181a80> (1, 19) (23, 1)
+2025-03-28 11:58:07,972 - DEBUG - Blur: <asciimatics.widgets.layout.Layout object at 0xffff99153e20>
+2025-03-28 11:58:07,973 - DEBUG - Widget blur: <asciimatics.widgets.textbox.TextBox object at 0xffff99184160>
+2025-03-28 11:58:07,973 - DEBUG - Focus: <asciimatics.widgets.layout.Layout object at 0xffff99153e80>
+2025-03-28 11:58:07,973 - DEBUG - Widget focus: <asciimatics.widgets.button.Button object at 0xffff99181a80>
+2025-03-28 11:58:07,973 - DEBUG - Widget: <asciimatics.widgets.button.Button object at 0xffff99181a80> (1, 19) (23, 1)
+2025-03-28 11:58:09,506 - DEBUG - New event: MouseEvent (46, 13) 0
+2025-03-28 11:58:09,506 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153e80> MouseEvent (46, 13) 0
+2025-03-28 11:58:09,506 - DEBUG - Check layout: 46, 13
+2025-03-28 11:58:09,506 - DEBUG - Current widget left event: MouseEvent (46, 13) 0
+2025-03-28 11:58:09,506 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153e20> MouseEvent (46, 13) 0
+2025-03-28 11:58:09,506 - DEBUG - Check layout: 46, 13
+2025-03-28 11:58:09,506 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153e80> MouseEvent (46, 13) 0
+2025-03-28 11:58:09,506 - DEBUG - Check layout: 46, 13
+2025-03-28 11:58:09,506 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153dc0> MouseEvent (46, 13) 0
+2025-03-28 11:58:09,506 - DEBUG - New event: MouseEvent (46, 13) 0
+2025-03-28 11:58:09,506 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153e80> MouseEvent (46, 13) 0
+2025-03-28 11:58:09,506 - DEBUG - Check layout: 46, 13
+2025-03-28 11:58:09,506 - DEBUG - Current widget left event: MouseEvent (46, 13) 0
+2025-03-28 11:58:09,506 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153e20> MouseEvent (46, 13) 0
+2025-03-28 11:58:09,506 - DEBUG - Check layout: 46, 13
+2025-03-28 11:58:09,506 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153e80> MouseEvent (46, 13) 0
+2025-03-28 11:58:09,506 - DEBUG - Check layout: 46, 13
+2025-03-28 11:58:09,506 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153dc0> MouseEvent (46, 13) 0
+2025-03-28 11:58:09,506 - DEBUG - New event: MouseEvent (46, 13) 0
+2025-03-28 11:58:09,506 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153e80> MouseEvent (46, 13) 0
+2025-03-28 11:58:09,506 - DEBUG - Check layout: 46, 13
+2025-03-28 11:58:09,506 - DEBUG - Current widget left event: MouseEvent (46, 13) 0
+2025-03-28 11:58:09,506 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153e20> MouseEvent (46, 13) 0
+2025-03-28 11:58:09,506 - DEBUG - Check layout: 46, 13
+2025-03-28 11:58:09,506 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153e80> MouseEvent (46, 13) 0
+2025-03-28 11:58:09,506 - DEBUG - Check layout: 46, 13
+2025-03-28 11:58:09,506 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153dc0> MouseEvent (46, 13) 0
+2025-03-28 11:58:09,506 - DEBUG - New event: MouseEvent (46, 13) 0
+2025-03-28 11:58:09,506 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153e80> MouseEvent (46, 13) 0
+2025-03-28 11:58:09,506 - DEBUG - Check layout: 46, 13
+2025-03-28 11:58:09,506 - DEBUG - Current widget left event: MouseEvent (46, 13) 0
+2025-03-28 11:58:09,506 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153e20> MouseEvent (46, 13) 0
+2025-03-28 11:58:09,506 - DEBUG - Check layout: 46, 13
+2025-03-28 11:58:09,506 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153e80> MouseEvent (46, 13) 0
+2025-03-28 11:58:09,506 - DEBUG - Check layout: 46, 13
+2025-03-28 11:58:09,506 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153dc0> MouseEvent (46, 13) 0
+2025-03-28 11:58:09,506 - DEBUG - New event: MouseEvent (46, 13) 0
+2025-03-28 11:58:09,506 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153e80> MouseEvent (46, 13) 0
+2025-03-28 11:58:09,506 - DEBUG - Check layout: 46, 13
+2025-03-28 11:58:09,506 - DEBUG - Current widget left event: MouseEvent (46, 13) 0
+2025-03-28 11:58:09,506 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153e20> MouseEvent (46, 13) 0
+2025-03-28 11:58:09,506 - DEBUG - Check layout: 46, 13
+2025-03-28 11:58:09,506 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153e80> MouseEvent (46, 13) 0
+2025-03-28 11:58:09,506 - DEBUG - Check layout: 46, 13
+2025-03-28 11:58:09,506 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153dc0> MouseEvent (46, 13) 0
+2025-03-28 11:58:09,559 - DEBUG - New event: MouseEvent (46, 13) 0
+2025-03-28 11:58:09,559 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153e80> MouseEvent (46, 13) 0
+2025-03-28 11:58:09,559 - DEBUG - Check layout: 46, 13
+2025-03-28 11:58:09,559 - DEBUG - Current widget left event: MouseEvent (46, 13) 0
+2025-03-28 11:58:09,559 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153e20> MouseEvent (46, 13) 0
+2025-03-28 11:58:09,559 - DEBUG - Check layout: 46, 13
+2025-03-28 11:58:09,559 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153e80> MouseEvent (46, 13) 0
+2025-03-28 11:58:09,559 - DEBUG - Check layout: 46, 13
+2025-03-28 11:58:09,559 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153dc0> MouseEvent (46, 13) 0
+2025-03-28 11:58:09,559 - DEBUG - New event: MouseEvent (46, 13) 0
+2025-03-28 11:58:09,559 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153e80> MouseEvent (46, 13) 0
+2025-03-28 11:58:09,559 - DEBUG - Check layout: 46, 13
+2025-03-28 11:58:09,559 - DEBUG - Current widget left event: MouseEvent (46, 13) 0
+2025-03-28 11:58:09,559 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153e20> MouseEvent (46, 13) 0
+2025-03-28 11:58:09,559 - DEBUG - Check layout: 46, 13
+2025-03-28 11:58:09,559 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153e80> MouseEvent (46, 13) 0
+2025-03-28 11:58:09,559 - DEBUG - Check layout: 46, 13
+2025-03-28 11:58:09,559 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153dc0> MouseEvent (46, 13) 0
+2025-03-28 11:58:09,939 - DEBUG - New event: MouseEvent (46, 13) 0
+2025-03-28 11:58:09,940 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153e80> MouseEvent (46, 13) 0
+2025-03-28 11:58:09,940 - DEBUG - Check layout: 46, 13
+2025-03-28 11:58:09,940 - DEBUG - Current widget left event: MouseEvent (46, 13) 0
+2025-03-28 11:58:09,940 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153e20> MouseEvent (46, 13) 0
+2025-03-28 11:58:09,940 - DEBUG - Check layout: 46, 13
+2025-03-28 11:58:09,940 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153e80> MouseEvent (46, 13) 0
+2025-03-28 11:58:09,940 - DEBUG - Check layout: 46, 13
+2025-03-28 11:58:09,940 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153dc0> MouseEvent (46, 13) 0
+2025-03-28 11:58:09,995 - DEBUG - New event: MouseEvent (46, 13) 0
+2025-03-28 11:58:09,996 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153e80> MouseEvent (46, 13) 0
+2025-03-28 11:58:09,996 - DEBUG - Check layout: 46, 13
+2025-03-28 11:58:09,996 - DEBUG - Current widget left event: MouseEvent (46, 13) 0
+2025-03-28 11:58:09,996 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153e20> MouseEvent (46, 13) 0
+2025-03-28 11:58:09,996 - DEBUG - Check layout: 46, 13
+2025-03-28 11:58:09,996 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153e80> MouseEvent (46, 13) 0
+2025-03-28 11:58:09,996 - DEBUG - Check layout: 46, 13
+2025-03-28 11:58:09,996 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153dc0> MouseEvent (46, 13) 0
+2025-03-28 11:58:09,996 - DEBUG - New event: MouseEvent (46, 13) 0
+2025-03-28 11:58:09,996 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153e80> MouseEvent (46, 13) 0
+2025-03-28 11:58:09,996 - DEBUG - Check layout: 46, 13
+2025-03-28 11:58:09,997 - DEBUG - Current widget left event: MouseEvent (46, 13) 0
+2025-03-28 11:58:09,997 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153e20> MouseEvent (46, 13) 0
+2025-03-28 11:58:09,997 - DEBUG - Check layout: 46, 13
+2025-03-28 11:58:09,997 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153e80> MouseEvent (46, 13) 0
+2025-03-28 11:58:09,997 - DEBUG - Check layout: 46, 13
+2025-03-28 11:58:09,997 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff99153dc0> MouseEvent (46, 13) 0
+2025-03-28 12:15:53,722 - DEBUG - New event: MouseEvent (-1, 3) 1
