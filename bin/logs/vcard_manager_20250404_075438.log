@@ -4033,3 +4033,7 @@ END:VCARD
 2025-04-04 07:55:17,600 - DEBUG - Layout event: <asciimatics.widgets.layout.Layout object at 0xffff82ef7e20> KeyboardEvent: -206
 2025-04-04 07:55:17,600 - DEBUG - Current widget left event: None
 2025-04-04 07:55:17,601 - DEBUG - Cursor: 0,0
+2025-04-04 07:57:48,689 - DEBUG - New event: MouseEvent (88, 6) 1
+2025-04-04 07:57:48,693 - DEBUG - Cursor: 0,0
+2025-04-04 07:58:03,487 - DEBUG - New event: MouseEvent (87, 1) 1
+2025-04-04 07:58:03,489 - DEBUG - Cursor: 0,0
